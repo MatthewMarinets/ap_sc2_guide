@@ -27,7 +27,7 @@
         fill: yellow;
     }
   </style>
-  <image href="raw/liberation_day.png" x="0" y="0"/>
+  <image href="https://matthewmarinets.github.io/ap_sc2_guide/images/raw/liberation_day.png" x="0" y="0"/>
   <circle cx="615" cy="660" r="20" class="bonus"/>
   <circle cx="362" cy="622" r="20" class="bonus"/>
   <circle cx="175" cy="356" r="20" class="bonus"/>
