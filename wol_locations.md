@@ -5,8 +5,10 @@
 1. [Zero Hour](#Zero-Hour)
 
 ## Liberation Day
-![Map](./images/raw/liberation_day.png)
-![Map](./images/liberation_day.svg)
+<div style="position: relative;">
+<img src="images/raw/liberation_day.png" style="position: relative; top: 0; left: 0;" height="1000"/>
+<img src="images/liberation_day.svg" style="position: absolute; top: 0; left: 0;" height="1000"/>
+</div>
 
 ## The Outlaws
 ![Map](./images/raw/the_outlaws.png)
