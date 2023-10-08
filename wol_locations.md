@@ -5,7 +5,8 @@
 1. [Zero Hour](#Zero-Hour)
 
 ## Liberation Day
-<img src="images/liberation_day.svg" style="background-image: url(https://github.com/MatthewMarinets/ap_sc2_guide/blob/main/images/raw/liberation_day.png?raw=true); background-size: 100% auto"/>
+<img src="images/liberation_day.svg" style="background-image: url(images/raw/liberation_day.png?raw=true); background-size: 100% auto"/>
+
 * 6 statues (bonus)
 * Special Delivery (progression)
 * Victory (progression)
