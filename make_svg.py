@@ -69,4 +69,9 @@ def print_svg(input_json: str, target_file: str) -> None:
 
 
 if __name__ == '__main__':
-    print_svg(os.path.dirname(__file__) + '/map_info/liberation_day.json', IMAGE_DIR_PATH + '/liberation_day.svg')
+    import glob
+    map_info_pattern = os.path.join(os.path.dirname(__file__), 'map_info', '*.json')
+    for file in glob.glob(map_info_pattern):
+        print(f'Making an .svg from {file}')
+        stem = os.path.basename(os.path.splitext(file)[0])
+        print_svg(file, os.path.join(IMAGE_DIR_PATH, f'{stem}.svg'))

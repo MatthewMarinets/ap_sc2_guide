@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="824" width="826" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onclick="console.log(evt.layerX + ', ' + evt.layerY)">
+  <style>
+    circle {
+        stroke-width: 3;
+        fill: transparent;
+    }
+    text {
+        stroke-width: 0.3;
+        dominant-baseline: bottom;
+        text-anchor: middle;
+        font-size: 20px;
+        transform: translate(0, -35px);
+    }
+    .bonus {
+        stroke: #b9f;
+    }
+    .bonus-text {
+        fill: #b9f;
+    }
+    .progression {
+        stroke: yellow;
+    }
+    .progression-text {
+        fill: yellow;
+    }
+  </style>
+  <image href="raw/the_outlaws.png" x="0" y="0"/>
+  <circle cx="247" cy="605" r="20" class="bonus"/>
+  <text x="247" y="605" class="bonus bonus-text">Rebels</text>
+  <circle cx="531" cy="338" r="20" class="bonus"/>
+  <text x="531" y="338" class="bonus bonus-text">Resources</text>
+  <circle cx="209" cy="356" r="20" class="progression"/>
+  <text x="209" y="356" class="progression progression-text">Bunker</text>
+  <circle cx="278" cy="212" r="30" class="progression"/>
+  <text x="278" y="212" class="progression progression-text">Goal</text>
+  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  SVG is unsupported.
+</svg>

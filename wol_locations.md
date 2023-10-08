@@ -12,7 +12,12 @@
 * Victory (progression)
 
 ## The Outlaws
-![Map](./images/raw/the_outlaws.png)
+<img src="images/the_outlaws.svg" style="background-image: url(images/raw/the_outlaws.png?raw=true); background-size: 100% auto"/>
+
+* Resource Pickups (bonus)
+* Rescue Rebel Base (bonus)
+* Nice job takin' out that bunker, Jimmy (progression)
+* Victory (progression)
 
 ## Zero Hour
 ![Map](./images/raw/zero_hour.png)
