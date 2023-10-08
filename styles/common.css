@@ -1,0 +1,51 @@
+
+h1 {
+    color: #ffff00;
+    font-size: 18px
+}
+
+h2 {
+    color: #ffd802;
+    font-size: 17px
+}
+
+h3 {
+    color: #ffb104;
+    font-size: 16px
+}
+
+h4 {
+    color: #ff8a06;
+    font-size: 15px
+}
+
+h5 {
+    color: #ff6309;
+    font-size: 14.5px
+}
+
+strong, dfn {
+	font-weight: 700;
+	color: #6b2;
+}
+em, dfn {
+	font-style: italic;
+    font-weight: 400;
+    color: #EE4400
+}
+
+a {
+    font-weight: 500;
+    color: #EE1155;
+}
+a:hover {
+    font-weight: 500;
+    text-shadow: 0 0 8px #ee1155;
+    color: #FF2255;
+}
+
+blockquote {
+    border-color: #E59400aa;
+    background-color: #1a1a1a;
+    color: #ecc;
+}
