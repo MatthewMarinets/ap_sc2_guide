@@ -4,25 +4,31 @@
 <svg height="$(height)" width="$(width)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onclick="console.log(evt.layerX + ', ' + evt.layerY)">
   <style>
     circle {
-        fill: transparent;
-        stroke: $(colour);
         stroke-width: 3;
-        r: 20;
+        fill: transparent;
     }
     text {
-        fill: $(colour);
-        dominant-baseline: middle;
-        text-anchor: bottom;
+        stroke-width: 0.3;
+        dominant-baseline: bottom;
+        text-anchor: middle;
+        font-size: 20px;
+        transform: translate(0, -35px);
+    }
+    .bonus {
+        stroke: $(bonus_colour);
+    }
+    .bonus-text {
+        fill: $(bonus_colour);
+    }
+    .progression {
+        stroke: $(progression_colour);
+    }
+    .progression-text {
+        fill: $(progression_colour);
     }
   </style>
-  <image href="raw/$(filename).png" x="0" y="0"/>
-  <circle cx="615" cy="660"/>
-  <circle cx="362" cy="622"/>
-  <circle cx="175" cy="356"/>
-  <circle cx="272" cy="539"/>
-  <circle cx="153" cy="670"/>
-  <circle cx="325" cy="304"/>
-  <circle cx="317" cy="522" color="yellow"/>
+  <image href="$(image_source)" x="0" y="0"/>
+$(points)
   <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
   SVG is unsupported.
 </svg>
