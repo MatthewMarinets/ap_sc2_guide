@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="$(height)" width="$(width)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onclick="console.log(evt.layerX + ', ' + evt.layerY)">
+  <style>
+    circle {
+        fill: transparent;
+        stroke: $(colour);
+        stroke-width: 3;
+        r: 20;
+    }
+    text {
+        fill: $(colour);
+        dominant-baseline: middle;
+        text-anchor: bottom;
+    }
+  </style>
+  <image href="raw/$(filename).png" x="0" y="0"/>
+  <circle cx="615" cy="660"/>
+  <circle cx="362" cy="622"/>
+  <circle cx="175" cy="356"/>
+  <circle cx="272" cy="539"/>
+  <circle cx="153" cy="670"/>
+  <circle cx="325" cy="304"/>
+  <circle cx="317" cy="522" color="yellow"/>
+  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  SVG is unsupported.
+</svg>

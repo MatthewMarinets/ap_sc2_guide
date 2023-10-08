@@ -2,27 +2,37 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg height="854" width="699" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onclick="console.log(evt.layerX + ', ' + evt.layerY)">
+  <image href="raw/liberation_day.png" x="0" y="0"></image>
   <style>
     circle {
-        fill: transparent;
-        stroke: #b9f;
         stroke-width: 3;
-        r: 20;
+        fill: transparent;
     }
     text {
-        fill: #b9f;
-        dominant-baseline: middle;
-        text-anchor: bottom;
+        fill: yellow;
+        dominant-baseline: bottom;
+        text-anchor: middle;
+        font-size: 20px;
+        transform: translate(0, -35px);
+    }
+    .bonus {
+        stroke: #b9f;
+    }
+    .progression {
+        stroke: yellow;
     }
   </style>
   <!-- <image href="https://github.com/MatthewMarinets/ap_sc2_guide/blob/main/images/raw/liberation_day.png?raw=true" width="100%" height="100%" x="0" y="0"/> -->
-  <image href="raw/liberation_day.png" x="0" y="0"/>
-  <circle cx="615" cy="660"/>
-  <circle cx="362" cy="622"/>
-  <circle cx="175" cy="356"/>
-  <circle cx="272" cy="539"/>
-  <circle cx="153" cy="670"/>
-  <circle cx="325" cy="304"/>
+  <circle cx="615" cy="660" r="20" class="bonus"/>
+  <circle cx="362" cy="622" r="20" class="bonus"/>
+  <circle cx="175" cy="356" r="20" class="bonus"/>
+  <circle cx="272" cy="539" r="20" class="bonus"/>
+  <circle cx="153" cy="670" r="20" class="bonus"/>
+  <circle cx="325" cy="304" r="20" class="bonus"/>
+  <text x="317" y="522" class="progression">Special Delivery</text>
+  <circle cx="317" cy="522" class="progression" r="30"/>
+  <text x="468" y="108" class="progression">Goal</text>
+  <circle cx="468" cy="108" class="progression" r="30"/>
   <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
   SVG is unsupported.
 </svg>
