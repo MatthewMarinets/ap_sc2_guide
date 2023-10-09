@@ -20,6 +20,13 @@ body {
 img {
     display: block;
     margin: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+/* temporary until I make more solid colour-coding */
+b {
+    color: green;
 }
 
 h2, h3, h4, h5, h6 {
