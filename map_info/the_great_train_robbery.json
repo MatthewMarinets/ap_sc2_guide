@@ -1,0 +1,16 @@
+{
+    "points": [
+        {"x": 436, "y": 368, "type": "annotation", "r": 10},
+        {"x": 614, "y": 125, "type": "annotation", "r": 10},
+        {"x": 483, "y": 69 , "type": "annotation", "r": 10},
+        {"x": 419, "y": 217, "type": "annotation", "r": 10},
+        {"x": 957, "y": 604, "type": "annotation", "r": 10},
+        {"x": 436, "y": 518, "type": "annotation", "r": 10},
+        {"x": 446, "y": 194, "type": "bonus", "label": "North Defiler"},
+        {"x": 765, "y": 471, "type": "bonus", "label": "Mid Defiler"},
+        {"x": 657, "y": 781, "type": "bonus", "label": "South Defiler"}
+    ],
+    "variables": {
+        "image_source": "raw/the_great_train_robbery.png"
+    }
+}

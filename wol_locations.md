@@ -22,6 +22,8 @@
    <li>[Welcome to the Jungle](#Welcome-to-the-Jungle)</li>
    <li>[Breakout](#Breakout)</li>
    <li>[Ghost of a Chance](#Ghost-of-a-Chance)</li>
+</ol><li>Rebellion</li><ol>
+   <li>[The Great Train Robbery](#The-Great-Train-Robbery)</li>
 </ol></ol>
 </div>
 
@@ -234,3 +236,18 @@
 * **Progression** Terrazine Tank
 * **Progression** Jorium Stockpile
 * **Progression** Victory
+
+## The Great Train Robbery
+<img src="images/the_great_train_robbery.svg" style="background-image: url(images/raw/the_great_train_robbery.png?raw=true); background-size: 100% auto">
+
+* **Bonus** North Defiler
+* **Bonus** Mid Defiler
+* **Bonus** South Defiler
+* **Bonus** Close Diamondback
+* **Bonus** Northwest Diamondback
+* **Bonus** North Diamondback
+* **Bonus** Northeast Diamondback
+* **Bonus** Southwest Diamondback
+* **Bonus** Southeast Diamondback
+* **Progression** Victory
+* **Challenge** Kill Team
