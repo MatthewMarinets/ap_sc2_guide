@@ -11,6 +11,7 @@ onclick="console.log('&quot;x&quot;: &quot;' + evt.layerX + '&quot;, &quot;y&quo
         fill: transparent;
     }
     text {
+        font-family: LexendDeca-Light, sans-serif;
         stroke: black;
         paint-order: stroke;
         stroke-width: 1.8;
