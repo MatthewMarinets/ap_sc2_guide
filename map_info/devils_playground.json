@@ -1,7 +1,7 @@
 {
     "points": [
         {"x": 98 , "y": 79 , "type": "bonus", "r": 30, "label": "Miners"},
-        {"x": 73 , "y": 849, "type": "bonus", "label": "Debbie"},
+        {"x": 73 , "y": 849, "type": "bonus", "label": "Donut"},
         {"x": 284, "y": 54 , "type": "bonus", "r": 40, "label": "North", "label_position": "below"},
         {"x": 587, "y": 383, "type": "bonus", "label": "Middle"},
         {"x": 342, "y": 815, "type": "bonus", "label": "Southwest", "label_position": "below"},

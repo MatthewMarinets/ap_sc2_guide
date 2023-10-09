@@ -1,0 +1,10 @@
+{
+    "points": [
+        {"x": 167, "y": 504, "type": "bonus", "r": 10, "label": "Relic"},
+        {"x": 334, "y": 604, "type": "bonus", "r": 10, "label": "Relic"},
+        {"x": 345, "y": 880, "type": "progression", "label": "Goal"}
+    ],
+    "variables": {
+        "image_source": "raw/piercing_the_shroud_2.png"
+    }
+}

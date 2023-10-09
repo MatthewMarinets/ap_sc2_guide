@@ -1,0 +1,31 @@
+{
+    "points": [
+        {"x": 947, "y": 872, "type": "bonus", "label": "Science Facility"},
+        {"x": 834, "y": 558, "type": "progression", "label": "Tower 1"},
+        {"x": 850, "y": 97 , "type": "progression", "label": "Tower 2"},
+        {"x": 116, "y": 31 , "type": "progression", "label": "Tower 3", "label_position": "below"},
+        {"x": 882, "y": 714, "type": "annotation", "r": "1"},
+        {"x": 832, "y": 647, "type": "annotation", "r": "1"},
+        {"x": 958, "y": 646, "type": "annotation", "r": "1"},
+        {"x": 988, "y": 618, "type": "annotation", "r": "1"},
+        {"x": 920, "y": 555, "type": "annotation", "r": "1"},
+        {"x": 729, "y": 222, "type": "annotation", "r": "1"},
+        {"x": 763, "y": 190, "type": "annotation", "r": "1"},
+        {"x": 640, "y": 188, "type": "annotation", "r": "1"},
+        {"x": 863, "y": 147, "type": "annotation", "r": "1"},
+        {"x": 798, "y": 85 , "type": "annotation", "r": "1"},
+        {"x": 631, "y": 20 , "type": "annotation", "r": "1"},
+        {"x": 312, "y": 78 , "type": "annotation", "r": "1"},
+        {"x": 162, "y": 221, "type": "annotation", "r": "1"},
+        {"x": 95 , "y": 131, "type": "annotation", "r": "1"},
+        {"x": 98 , "y": 95 , "type": "annotation", "r": "1"},
+        {"x": 171, "y": 25 , "type": "annotation", "r": "1"},
+        {"x": 223, "y": 24 , "type": "annotation", "r": "1"},
+        {"x": 165, "y": 421, "type": "annotation", "r": "1"},
+        {"x": 106, "y": 470, "type": "annotation", "r": "1"}
+    ],
+    "variables": {
+        "image_source": "raw/media_blitz.png",
+        "annotation_colour": "red"
+    }
+}

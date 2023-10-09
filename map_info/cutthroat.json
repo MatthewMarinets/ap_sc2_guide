@@ -1,0 +1,16 @@
+{
+    "points": [
+        {"x": 546, "y": 498, "type": "bonus", "label": "Mid Relic"},
+        {"x": 421, "y": 654, "type": "bonus", "label": "Southwest Relic"},
+        {"x": 473, "y": 98 , "type": "bonus", "label": "North Relic"},
+        {"x": 593, "y": 111, "type": "progression", "r": 30, "label": "North CC"},
+        {"x": 618, "y": 823, "type": "progression", "r": 30, "label": "South CC"},
+        {"x": 264, "y": 669, "type": "progression", "r": 30, "label": "West CC"},
+        {"x": 121, "y": 771, "type": "progression", "r": 80, "label": "Mira's Base"},
+        {"x": 321, "y": 70 , "type": "progression", "r": 30, "label": "Goal"},
+        {"x": 346, "y": 179, "type": "annotation", "r": 5, "label": "Tank spot"}
+    ],
+    "variables": {
+        "image_source": "raw/cutthroat.png"
+    }
+}

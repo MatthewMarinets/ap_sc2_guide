@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="888" width="797" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.layerY)">
+  <style>
+    path {
+        fill: transparent;
+        stroke-width: 2;
+    }
+    circle {
+        stroke-width: 3;
+        fill: transparent;
+    }
+    text {
+        font-family: LexendDeca-Light, sans-serif;
+        stroke: black;
+        paint-order: stroke;
+        stroke-width: 3;
+        dominant-baseline: middle;
+        text-anchor: middle;
+        font-size: 20px;
+    }
+    .bonus { stroke: #b9f; }
+    .bonus-text { fill: #b9f; }
+    .progression { stroke: yellow; }
+    .progression-text { fill: yellow; }
+    .annotation { stroke: #fa66a9; }
+    .annotation-text { fill: #fa66a9; }
+  </style>
+  <image href="raw/cutthroat.png" x="0" y="0"/>
+  <circle cx="546" cy="498" r="20" class="bonus"/>
+  <text x="546" y="468" class="bonus-text">Mid Relic</text>
+  <circle cx="421" cy="654" r="20" class="bonus"/>
+  <text x="421" y="624" class="bonus-text">Southwest Relic</text>
+  <circle cx="473" cy="98" r="20" class="bonus"/>
+  <text x="473" y="68" class="bonus-text">North Relic</text>
+  <circle cx="593" cy="111" r="30" class="progression"/>
+  <text x="593" y="71" class="progression-text">North CC</text>
+  <circle cx="618" cy="823" r="30" class="progression"/>
+  <text x="618" y="783" class="progression-text">South CC</text>
+  <circle cx="264" cy="669" r="30" class="progression"/>
+  <text x="264" y="629" class="progression-text">West CC</text>
+  <circle cx="121" cy="771" r="80" class="progression"/>
+  <text x="121" y="681" class="progression-text">Mira's Base</text>
+  <circle cx="321" cy="70" r="30" class="progression"/>
+  <text x="321" y="30" class="progression-text">Goal</text>
+  <circle cx="346" cy="179" r="5" class="annotation"/>
+  <text x="346" y="164" class="annotation-text">Tank spot</text>
+  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  SVG is unsupported.
+</svg>

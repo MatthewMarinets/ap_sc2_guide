@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="895" width="916" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.layerY)">
+  <style>
+    path {
+        fill: transparent;
+        stroke-width: 2;
+    }
+    circle {
+        stroke-width: 3;
+        fill: transparent;
+    }
+    text {
+        font-family: LexendDeca-Light, sans-serif;
+        stroke: black;
+        paint-order: stroke;
+        stroke-width: 3;
+        dominant-baseline: middle;
+        text-anchor: middle;
+        font-size: 20px;
+    }
+    .bonus { stroke: #b9f; }
+    .bonus-text { fill: #b9f; }
+    .progression { stroke: yellow; }
+    .progression-text { fill: yellow; }
+    .annotation { stroke: #fa66a9; }
+    .annotation-text { fill: #fa66a9; }
+  </style>
+  <image href="raw/engine_of_destruction.png" x="0" y="0"/>
+  <circle cx="85" cy="726" r="10" class="bonus"/>
+  <text x="85" y="706" class="bonus-text">Lab Devourer</text>
+  <circle cx="400" cy="66" r="10" class="bonus"/>
+  <text x="400" y="46" class="bonus-text">North Devourer</text>
+  <circle cx="639" cy="451" r="10" class="bonus"/>
+  <text x="639" y="431" class="bonus-text">Southeast Devourer</text>
+  <circle cx="860" cy="430" r="20" class="bonus"/>
+  <text x="860" y="400" class="bonus-text">Loki</text>
+  <circle cx="276" cy="663" r="20" class="progression"/>
+  <text x="276" y="633" class="progression-text">Odin</text>
+  <circle cx="74" cy="234" r="30" class="progression"/>
+  <text x="74" y="194" class="progression-text">West Base</text>
+  <circle cx="248" cy="85" r="30" class="progression"/>
+  <text x="248" y="45" class="progression-text">Northwest Base</text>
+  <circle cx="773" cy="115" r="30" class="progression"/>
+  <text x="773" y="75" class="progression-text">Northeast Base</text>
+  <circle cx="738" cy="538" r="30" class="progression"/>
+  <text x="738" y="498" class="progression-text">Southeast Base</text>
+  <circle cx="499" cy="798" r="30" class="progression"/>
+  <text x="499" y="758" class="progression-text">Goal</text>
+  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  SVG is unsupported.
+</svg>

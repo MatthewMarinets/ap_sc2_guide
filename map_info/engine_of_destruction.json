@@ -1,0 +1,17 @@
+{
+    "points": [
+        {"x": 85 , "y": 726, "type": "bonus", "label": "Lab Devourer", "r": 10},
+        {"x": 400, "y": 66 , "type": "bonus", "label": "North Devourer", "r": 10},
+        {"x": 639, "y": 451, "type": "bonus", "label": "Southeast Devourer", "r": 10},
+        {"x": 860, "y": 430, "type": "bonus", "label": "Loki", "r": 20},
+        {"x": 276, "y": 663, "type": "progression", "label": "Odin"},
+        {"x": 74 , "y": 234, "type": "progression", "r": 30, "label": "West Base"},
+        {"x": 248, "y": 85 , "type": "progression", "r": 30, "label": "Northwest Base"},
+        {"x": 773, "y": 115, "type": "progression", "r": 30, "label": "Northeast Base"},
+        {"x": 738, "y": 538, "type": "progression", "r": 30, "label": "Southeast Base"},
+        {"x": 499, "y": 798, "type": "progression", "r": 30, "label": "Goal"}
+    ],
+    "variables": {
+        "image_source": "raw/engine_of_destruction.png"
+    }
+}
