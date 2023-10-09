@@ -8,6 +8,11 @@
    1. [Evacuation](#Evacuation)
    1. [Outbreak](#Outbreak)
 
+### Contibutors
+* Phaneros (aka "Phanerus") -- General code / tooling / HTML
+* Neocerber -- Map pictures
+* Mati -- Proof of concept
+
 ## Liberation Day
 <img src="images/liberation_day.svg" style="background-image: url(images/raw/liberation_day.png?raw=true); background-size: 100% auto"/>
 

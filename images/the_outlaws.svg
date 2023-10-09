@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg height="812" width="690" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onclick="console.log(evt.layerX + ', ' + evt.layerY)">
+<svg height="812" width="690" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+onclick="console.log('&quot;x&quot;: &quot;' + evt.layerX + '&quot;, &quot;y&quot;: &quot;' + evt.layerY + '&quot;')">
   <style>
     circle {
         stroke-width: 3;
