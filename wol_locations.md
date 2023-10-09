@@ -7,6 +7,7 @@
 2. Colonist
    1. [Evacuation](#Evacuation)
    1. [Outbreak](#Outbreak)
+   1. [Haven's Fall](#Haven's-Fall)
 
 ### Contibutors
 * Phaneros (aka "Phanerus") -- General code / tooling / HTML
@@ -52,3 +53,17 @@
 * **(Bonus)** Reggie the Right infestor
 * **(Progression)** Victory
 
+## Safe Haven
+
+## Haven's Fall
+<img src="images/havens_fall.svg" style="background-image: url(images/raw/havens_fall.png?raw=true); background-size: 100% auto">
+
+* **Progression** North Hive
+* **Progression** East Hive
+* **Progression** South Hive
+* **Progression** Victory
+* **Challenge** Northeast Colony Base
+* **Challenge** East Colony Base
+* **Challenge** Middle Colony Base
+* **Challenge** Southeast Colony Base
+* **Challenge** Southwest Colony Base
