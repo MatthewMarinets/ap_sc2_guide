@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="910" width="1214" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.layerY)">
+  <style>
+    path {
+        fill: transparent;
+        stroke-width: 2;
+    }
+    circle {
+        stroke-width: 3;
+        fill: transparent;
+    }
+    text {
+        font-family: LexendDeca-Light, sans-serif;
+        stroke: black;
+        paint-order: stroke;
+        stroke-width: 3;
+        dominant-baseline: middle;
+        text-anchor: middle;
+        font-size: 20px;
+    }
+    .bonus { stroke: #b9f; }
+    .bonus-text { fill: #b9f; }
+    .progression { stroke: yellow; }
+    .progression-text { fill: yellow; }
+    .annotation { stroke: #fa66a9; }
+    .annotation-text { fill: #fa66a9; }
+  </style>
+  <image href="raw/breakout.png" x="0" y="0"/>
+  <circle cx="518" cy="240" r="40" class="bonus"/>
+  <text x="518" y="190" class="bonus-text">Diamondbacks</text>
+  <circle cx="299" cy="672" r="40" class="bonus"/>
+  <text x="299" y="622" class="bonus-text">Siege Tanks</text>
+  <circle cx="845" cy="256" r="40" class="progression"/>
+  <text x="845" y="206" class="progression-text">First Checkpoint</text>
+  <circle cx="584" cy="650" r="40" class="progression"/>
+  <text x="584" y="600" class="progression-text">Second Checkpoint</text>
+  <circle cx="210" cy="256" r="50" class="progression"/>
+  <text x="210" y="196" class="progression-text">Goal</text>
+  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  SVG is unsupported.
+</svg>

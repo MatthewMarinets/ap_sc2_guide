@@ -1,0 +1,13 @@
+{
+    "points": [
+        {"x": 449, "y": 422, "type": "bonus", "r": 10},
+        {"x": 705, "y": 239, "type": "bonus", "r": 10},
+        {"x": 676, "y": 531, "type": "bonus", "r": 10},
+        {"x": 875, "y": 426, "type": "bonus", "r": 10},
+        {"x": 876, "y": 375, "type": "bonus", "r": 10},
+        {"x": 939, "y": 391, "type": "progression", "r": 40, "label": "Goal"}
+    ],
+    "variables": {
+        "image_source": "raw/ghost_of_a_chance_3.png"
+    }
+}

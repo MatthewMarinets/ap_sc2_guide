@@ -1,0 +1,15 @@
+{
+    "points": [
+        {"x": 361, "y": 614, "type": "bonus", "label": "Close"},
+        {"x": 30 , "y": 383, "type": "bonus", "label": "West"},
+        {"x": 518, "y": 240, "type": "bonus", "label": "Northeast"},
+        {"x": 400, "y": 526, "type": "bonus", "r": 30, "label": "Middle Base"},
+        {"x": 210, "y": 230, "type": "annotation", "r": 1, "label": "Main Base"}
+    ],
+    "paths": [
+        {"d": "M 23 230 H 393 V 29 H 22 Z"}
+    ],
+    "variables": {
+        "image_source": "raw/welcome_to_the_jungle.png"
+    }
+}

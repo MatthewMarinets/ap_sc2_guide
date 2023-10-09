@@ -1,0 +1,10 @@
+{
+    "points": [
+        {"x": 260, "y": 390, "type": "bonus", "r": 10},
+        {"x": 196, "y": 276, "type": "bonus", "r": 10},
+        {"x": 215, "y": 88 , "type": "progression", "r": 30, "label": "Jorium Stockpile"}
+    ],
+    "variables": {
+        "image_source": "raw/ghost_of_a_chance_1.png"
+    }
+}

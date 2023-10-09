@@ -17,6 +17,11 @@
    <li>[The Moebius Factor](#The-Moebius-Factor)</li>
    <li>[Supernova](#Supernova)</li>
    <li>[Maw of the Void](#Maw-of-the-Void)</li>
+</ol><li>Covert</li><ol>
+   <li>[The Devil's Playground](#The-Devil's-Playground)</li>
+   <li>[Welcome to the Jungle](#Welcome-to-the-Jungle)</li>
+   <li>[Breakout](#Breakout)</li>
+   <li>[Ghost of a Chance](#Ghost-of-a-Chance)</li>
 </ol></ol>
 </div>
 
@@ -35,16 +40,21 @@
 ## The Outlaws
 <img src="images/the_outlaws.svg" style="background-image: url(images/raw/the_outlaws.png?raw=true); background-size: 100% auto"/>
 
-* **Bonus** Resource Pickups
-* **Bonus** Rescue Rebel Base
+* **Bonus** North Resource Pickups
+* **Bonus** Rebel Base
 * **Progression** Nice job takin' out that bunker, Jimmy
 * **Progression** Victory
 
 ## Zero Hour
 <img src="images/zero_hour.svg" style="background-image: url(images/raw/zero_hour.png?raw=true); background-size: 100% auto"/>
 
-* **Bonus** Rescue groups 1~3
-* **Challenge** 4x kill a hatchery
+* **Bonus** First Group Rescued
+* **Bonus** Second Group Rescued
+* **Bonus** Third Group Rescued
+* **Challenge** Kill 1 Hathery
+* **Challenge** Kill 2 Hatheries
+* **Challenge** Kill 3 Hatheries
+* **Challenge** Kill 4 Hatheries
 * **Progression** Victory
 
 ### Tips
@@ -55,8 +65,10 @@
 
 * **Secret** Secret resource stash 
   * Note: This is reachable right at the start of the mission
-* **Bonus** 3x Zerg Crysalis
-* **Progression** Reach the colonist base
+* **Bonus** First Crysalis
+* **Bonus** Second Crysalis
+* **Bonus** Third Crysalis
+* **Progression** Reach Hanson
 * **Progression** Victory
 * **Challenge** Don't lose any colonist or truck
 
@@ -172,3 +184,53 @@
 
 ### Tips
 * The Nerazim Dark Templar you rescue can use Shadow Fury to snipe cannons from outside their detection range
+
+## The Devil's Playground
+<img src="images/devils_playground.svg" style="background-image: url(images/raw/devils_playground.png?raw=true); background-size: 100% auto">
+
+* **Bonus** Tosh's Miners
+* **Bonus** Brutalisk (Lucy)
+* **Bonus** North Reapers
+* **Bonus** Middle Reapers
+* **Bonus** Southwest Reapers
+* **Bonus** Southeast Reapers
+* **Bonus** East Reapers
+* **Progression** Victory
+
+## Welcome to the Jungle
+<img src="images/welcome_to_the_jungle.svg" style="background-image: url(images/raw/welcome_to_the_jungle.png?raw=true); background-size: 100% auto">
+
+* **Bonus** Close Relic
+* **Bonus** West Relic
+* **Bonus** North-East Relic
+* **Bonus** Middle Base
+* **Progression** Victory
+* **Challenge** Main Base
+  * Note: This objective requires destroying _all_ protoss on the map, including outlying bases
+* **Challenge** No Terrazine Nodes Sealed
+* **Challenge** Up to 1 Terrazine Node Sealed
+* **Challenge** Up to 2 Terrazine Nodes Sealed
+* **Challenge** Up to 3 Terrazine Nodes Sealed
+* **Challenge** Up to 4 Terrazine Nodes Sealed
+* **Challenge** Up to 5 Terrazine Nodes Sealed
+
+## Breakout
+<img src="images/breakout.svg" style="background-image: url(images/raw/breakout.png?raw=true); background-size: 100% auto">
+
+* **Bonus** Diamondback Prison
+* **Bonus** Siege Tank Prison
+* **Progression** First Checkpoint
+* **Progression** Second Checkpoint
+* **Progression** Victory
+
+## Ghost of a Chance
+<img src="images/ghost_of_a_chance_1.svg" style="background-image: url(images/raw/ghost_of_a_chance_1.png?raw=true); background-size: 100% auto">
+<img src="images/ghost_of_a_chance_2.svg" style="background-image: url(images/raw/ghost_of_a_chance_2.png?raw=true); background-size: 100% auto">
+<img src="images/ghost_of_a_chance_3.svg" style="background-image: url(images/raw/ghost_of_a_chance_3.png?raw=true); background-size: 100% auto">
+
+* **Bonus** First Island Spectres
+* **Bonus** Second Island Spectres
+* **Bonus** Third Island Spectres
+* **Progression** Terrazine Tank
+* **Progression** Jorium Stockpile
+* **Progression** Victory

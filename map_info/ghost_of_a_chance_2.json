@@ -1,0 +1,11 @@
+{
+    "points": [
+        {"x": 409, "y": 305, "type": "bonus", "r": 10},
+        {"x": 76 , "y": 217, "type": "bonus", "r": 10},
+        {"x": 610, "y": 100, "type": "bonus", "r": 10},
+        {"x": 639, "y": 67 , "type": "progression", "r": 30, "label": "Terrazine Tank"}
+    ],
+    "variables": {
+        "image_source": "raw/ghost_of_a_chance_2.png"
+    }
+}

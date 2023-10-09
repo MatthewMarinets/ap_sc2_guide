@@ -1,0 +1,12 @@
+{
+    "points": [
+        {"x": 518, "y": 240, "type": "bonus", "r": 40, "label": "Diamondbacks"},
+        {"x": 299, "y": 672, "type": "bonus", "r": 40, "label": "Siege Tanks"},
+        {"x": 845, "y": 256, "type": "progression", "r": 40, "label": "First Checkpoint"},
+        {"x": 584, "y": 650, "type": "progression", "r": 40, "label": "Second Checkpoint"},
+        {"x": 210, "y": 256, "type": "progression", "r": 50, "label": "Goal"}
+    ],
+    "variables": {
+        "image_source": "raw/breakout.png"
+    }
+}
