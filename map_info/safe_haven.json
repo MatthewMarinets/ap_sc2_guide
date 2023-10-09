@@ -1,0 +1,13 @@
+{
+    "points": [
+        {"x": 83 , "y": 557, "type": "bonus", "label": "First Fleet"},
+        {"x": 343, "y": 445, "type": "bonus", "label": "Second Fleet"},
+        {"x": 89 , "y": 292, "type": "bonus", "label": "Third Fleet"},
+        {"x": 482, "y": 194, "type": "progression", "r": 30, "label": "North"},
+        {"x": 513, "y": 550, "type": "progression", "r": 30, "label": "East"},
+        {"x": 142, "y": 782, "type": "progression", "r": 30, "label": "South"}
+    ],
+    "variables": {
+        "image_source": "raw/safe_haven.png"
+    }
+}

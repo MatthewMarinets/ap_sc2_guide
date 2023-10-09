@@ -7,6 +7,7 @@
 2. Colonist
    1. [Evacuation](#Evacuation)
    1. [Outbreak](#Outbreak)
+   1. [Safe Haven](#Safe-Haven)
    1. [Haven's Fall](#Haven's-Fall)
 
 ### Contibutors
@@ -17,9 +18,9 @@
 ## Liberation Day
 <img src="images/liberation_day.svg" style="background-image: url(images/raw/liberation_day.png?raw=true); background-size: 100% auto"/>
 
-* 6 statues (bonus)
-* Special Delivery (progression)
-* Victory (progression)
+* **Bonus** 6 statues
+* **Progression** Special Delivery
+* **Progression** Victory
 
 ## The Outlaws
 <img src="images/the_outlaws.svg" style="background-image: url(images/raw/the_outlaws.png?raw=true); background-size: 100% auto"/>
@@ -54,6 +55,15 @@
 * **(Progression)** Victory
 
 ## Safe Haven
+<img src="images/safe_haven.svg" style="background-image: url(images/raw/safe_haven.png?raw=true); background-size: 100% auto">
+
+* **(Bonus)** First Terror Fleet
+* **(Bonus)** Second Terror Fleet
+* **(Bonus)** Third Terror Fleet
+* **(Progression)** North Nexus
+* **(Progression)** East Nexus
+* **(Progression)** South Nexus
+* **(Progression)** Victory
 
 ## Haven's Fall
 <img src="images/havens_fall.svg" style="background-image: url(images/raw/havens_fall.png?raw=true); background-size: 100% auto">
