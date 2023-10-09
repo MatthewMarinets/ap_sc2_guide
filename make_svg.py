@@ -36,16 +36,26 @@ def fetch_template():
             _template_contents.append(fp.read())
     return _template_contents[0]
 
+
 TMapInfo = Dict[Literal["points", "variables", "paths"], List[Dict[str, str]] | Dict[str, str]]
+HALF_LABEL_FONT_SIZE = 10
+
 def svg_for_points(filename: str, map_info: TMapInfo) -> str:
     result: List[str] = []
-    points: List[Dict[str, str]] = map_info.get('points')
+    points: List[Dict[str, str|int]] = map_info.get('points')
     assert points is not None, f'No points were supplied in {filename}'
     for point in points:
         point_type = point.get("type", "bonus")
-        result.append(f'  <circle cx="{point["x"]}" cy="{point["y"]}" r="{point.get("r", "20")}" class="{point_type}"/>')
+        r = int(point.get("r", 20))
+        x: int = point["x"]
+        y: int = point["y"]
+        result.append(f'  <circle cx="{x}" cy="{y}" r="{r}" class="{point_type}"/>')
         if label := point.get("label"):
-            result.append(f'  <text x="{point["x"]}" y="{point["y"]}" class="{point_type}-text">{label}</text>')
+            dx = 0
+            dy = HALF_LABEL_FONT_SIZE + r
+            if point.get('label_position', 'above') == 'above':
+                dy *= -1
+            result.append(f'  <text x="{x+dx}" y="{y+dy}" class="{point_type}-text">{label}</text>')
     return '\n'.join(result)
 
 
@@ -62,7 +72,6 @@ def print_svg(input_json: str, target_file: str) -> None:
     variables.setdefault('bonus_colour', '#b9f')
     variables.setdefault('progression_colour', 'yellow')
     variables.setdefault('annotation_colour', '#fa66a9')
-    variables.setdefault('label_offset', '0, -35px')
     contents = fetch_template()
     for variable_name, variable_value in variables.items():
         contents = contents.replace(f'$({variable_name})', str(variable_value))

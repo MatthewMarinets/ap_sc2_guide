@@ -1,16 +1,16 @@
 {
     "points": [
-        {"x": "940", "y": "367", "type": "bonus", "label": "Group 1"},
-        {"x": "384", "y": "323", "type": "bonus", "label": "Group 2"},
-        {"x": "98" , "y": "456", "type": "bonus", "label": "Group 3"},
-        {"x": "823", "y": "114", "type": "annotation", "r": "15"},
-        {"x": "747", "y": "142", "type": "annotation", "r": "15"},
-        {"x": "685", "y": "96" , "type": "annotation", "r": "15"},
-        {"x": "244", "y": "208", "type": "annotation", "r": "15"},
-        {"x": "177", "y": "148", "type": "annotation", "r": "15"},
-        {"x": "184", "y": "733", "type": "annotation", "r": "15"},
-        {"x": "114", "y": "780", "type": "annotation", "r": "15"},
-        {"x": "76" , "y": "708", "type": "annotation", "r": "15"}
+        {"x": 940, "y": 367, "type": "bonus", "label": "Group 1"},
+        {"x": 384, "y": 323, "type": "bonus", "label": "Group 2"},
+        {"x": 98 , "y": 456, "type": "bonus", "label": "Group 3"},
+        {"x": 823, "y": 114, "type": "annotation", "r": 15},
+        {"x": 747, "y": 142, "type": "annotation", "r": 15},
+        {"x": 685, "y": 96 , "type": "annotation", "r": 15},
+        {"x": 244, "y": 208, "type": "annotation", "r": 15},
+        {"x": 177, "y": 148, "type": "annotation", "r": 15},
+        {"x": 184, "y": 733, "type": "annotation", "r": 15},
+        {"x": 114, "y": 780, "type": "annotation", "r": 15},
+        {"x": 76 , "y": 708, "type": "annotation", "r": 15}
     ],
     "variables": {
         "image_source": "raw/zero_hour.png"

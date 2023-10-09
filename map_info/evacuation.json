@@ -1,11 +1,11 @@
 {
     "points": [
-        {"x": "472", "y": "184", "type": "bonus"},
-        {"x": "454", "y": "510", "type": "bonus"},
-        {"x": "80",  "y": "441", "type": "bonus"},
-        {"x": "606", "y": "559", "type": "annotation", "r": "30", "label": "Resource Stash"},
-        {"x": "326", "y": "768", "type": "progression", "r": "30", "label": "Colonist Base"},
-        {"x": "528", "y": "78",  "type": "progression", "r": "30", "label": "Goal"}
+        {"x": 472, "y": 184, "type": "bonus"},
+        {"x": 454, "y": 510, "type": "bonus"},
+        {"x": 80,  "y": 441, "type": "bonus"},
+        {"x": 606, "y": 559, "type": "annotation", "r": 30, "label": "Resource Stash"},
+        {"x": 326, "y": 768, "type": "progression", "r": 30, "label": "Colonist Base"},
+        {"x": 528, "y": 78,  "type": "progression", "r": 30, "label": "Goal"}
     ],
     "paths": [
         {"d": "M 664 740 L 624 655 L 626 632 L 603 610 L 605 588", "type": "annotation"}

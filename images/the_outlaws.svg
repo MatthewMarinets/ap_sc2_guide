@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg height="812" width="690" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-onclick="console.log('&quot;x&quot;: &quot;' + evt.layerX + '&quot;, &quot;y&quot;: &quot;' + evt.layerY + '&quot;')">
+onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.layerY)">
   <style>
     path {
         fill: transparent;
@@ -15,10 +15,9 @@ onclick="console.log('&quot;x&quot;: &quot;' + evt.layerX + '&quot;, &quot;y&quo
         stroke: black;
         paint-order: stroke;
         stroke-width: 3;
-        dominant-baseline: bottom;
+        dominant-baseline: middle;
         text-anchor: middle;
         font-size: 20px;
-        transform: translate(0, -35px);
     }
     .bonus { stroke: #b9f; }
     .bonus-text { fill: #b9f; }
@@ -29,13 +28,13 @@ onclick="console.log('&quot;x&quot;: &quot;' + evt.layerX + '&quot;, &quot;y&quo
   </style>
   <image href="raw/the_outlaws.png" x="0" y="0"/>
   <circle cx="147" cy="613" r="20" class="bonus"/>
-  <text x="147" y="613" class="bonus-text">Rebels</text>
+  <text x="147" y="583" class="bonus-text">Rebels</text>
   <circle cx="505" cy="287" r="20" class="bonus"/>
-  <text x="505" y="287" class="bonus-text">Resources</text>
+  <text x="505" y="257" class="bonus-text">Resources</text>
   <circle cx="99" cy="297" r="20" class="progression"/>
-  <text x="99" y="297" class="progression-text">Bunker</text>
+  <text x="99" y="267" class="progression-text">Bunker</text>
   <circle cx="170" cy="100" r="30" class="progression"/>
-  <text x="170" y="100" class="progression-text">Goal</text>
+  <text x="170" y="60" class="progression-text">Goal</text>
   <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
   SVG is unsupported.
 </svg>

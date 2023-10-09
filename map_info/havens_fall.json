@@ -1,14 +1,14 @@
 {
     "points": [
-        {"x": "215", "y": "635", "type": "bonus", "label": "Southwest"},
-        {"x": "468", "y": "486", "type": "bonus", "label": "Middle"},
-        {"x": "705", "y": "571", "type": "bonus", "label": "Southeast"},
-        {"x": "599", "y": "286", "type": "bonus", "label": "East"},
-        {"x": "652", "y": "90" , "type": "bonus", "label": "Northeast"},
-        {"x": "459", "y": "797", "type": "progression", "r": "30"},
-        {"x": "751", "y": "408", "type": "progression", "r": "30"},
-        {"x": "424", "y": "34" , "type": "progression", "r": "30"},
-        {"x": "72" , "y": "810", "type": "annotation", "r": "35", "label": "gas island"}
+        {"x": 215, "y": 635, "type": "bonus", "label": "Southwest"},
+        {"x": 468, "y": 486, "type": "bonus", "label": "Middle"},
+        {"x": 705, "y": 571, "type": "bonus", "label": "Southeast"},
+        {"x": 599, "y": 286, "type": "bonus", "label": "East"},
+        {"x": 652, "y": 90 , "type": "bonus", "label": "Northeast"},
+        {"x": 459, "y": 797, "type": "progression", "r": 30},
+        {"x": 751, "y": 408, "type": "progression", "r": 30},
+        {"x": 424, "y": 34 , "type": "progression", "r": 30},
+        {"x": 72 , "y": 810, "type": "annotation", "r": 35, "label": "gas island"}
     ],
     "variables": {
         "image_source": "raw/havens_fall.png"
