@@ -1,9 +1,9 @@
 {
     "points": [
-        {"x": "247", "y": "605", "type": "bonus", "label": "Rebels"},
-        {"x": "531", "y": "338", "type": "bonus", "label": "Resources"},
-        {"x": "209", "y": "356", "type": "progression", "label": "Bunker"},
-        {"x": "278", "y": "212", "type": "progression", "r": "30", "label": "Goal"}
+        {"x": "147", "y": "613", "type": "bonus", "label": "Rebels"},
+        {"x": "505", "y": "287", "type": "bonus", "label": "Resources"},
+        {"x": "99" , "y": "297", "type": "progression", "label": "Bunker"},
+        {"x": "170", "y": "100", "type": "progression", "r": "30", "label": "Goal"}
     ],
     "variables": {
         "image_source": "raw/the_outlaws.png"

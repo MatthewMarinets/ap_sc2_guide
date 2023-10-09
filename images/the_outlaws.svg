@@ -22,14 +22,14 @@
     .annotation-text { fill: #fa66a9; }
   </style>
   <image href="raw/the_outlaws.png" x="0" y="0"/>
-  <circle cx="247" cy="605" r="20" class="bonus"/>
-  <text x="247" y="605" class="bonus-text">Rebels</text>
-  <circle cx="531" cy="338" r="20" class="bonus"/>
-  <text x="531" y="338" class="bonus-text">Resources</text>
-  <circle cx="209" cy="356" r="20" class="progression"/>
-  <text x="209" y="356" class="progression-text">Bunker</text>
-  <circle cx="278" cy="212" r="30" class="progression"/>
-  <text x="278" y="212" class="progression-text">Goal</text>
+  <circle cx="147" cy="613" r="20" class="bonus"/>
+  <text x="147" y="613" class="bonus-text">Rebels</text>
+  <circle cx="505" cy="287" r="20" class="bonus"/>
+  <text x="505" y="287" class="bonus-text">Resources</text>
+  <circle cx="99" cy="297" r="20" class="progression"/>
+  <text x="99" y="297" class="progression-text">Bunker</text>
+  <circle cx="170" cy="100" r="30" class="progression"/>
+  <text x="170" y="100" class="progression-text">Goal</text>
   <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
   SVG is unsupported.
 </svg>

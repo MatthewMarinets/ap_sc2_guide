@@ -6,6 +6,7 @@
   3. [Zero Hour](#Zero-Hour)
 2. Colonist
    1. [Evacuation](#Evacuation)
+   1. [Outbreak](#Outbreak)
 
 ## Liberation Day
 <img src="images/liberation_day.svg" style="background-image: url(images/raw/liberation_day.png?raw=true); background-size: 100% auto"/>
@@ -23,7 +24,11 @@
 * **(Progression)** Victory
 
 ## Zero Hour
-![Map](./images/raw/zero_hour.png)
+<img src="images/zero_hour.svg" style="background-image: url(images/raw/zero_hour.png?raw=true); background-size: 100% auto"/>
+
+* **(Bonus)** Rescue groups 1~3
+* **(Challenge)** 4x kill a hatchery
+* **(Progression)** Victory
 
 ## Evacuation
 <img src="images/evacuation.svg" style="background-image: url(images/raw/evacuation.png?raw=true); background-size: 100% auto">

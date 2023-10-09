@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="879" width="984" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onclick="console.log(evt.layerX + ', ' + evt.layerY)">
+  <style>
+    circle {
+        stroke-width: 3;
+        fill: transparent;
+    }
+    text {
+        stroke: black;
+        paint-order: stroke;
+        stroke-width: 1.8;
+        dominant-baseline: bottom;
+        text-anchor: middle;
+        font-size: 20px;
+        transform: translate(0, -35px);
+    }
+    .bonus { stroke: #b9f; }
+    .bonus-text { fill: #b9f; }
+    .progression { stroke: yellow; }
+    .progression-text { fill: yellow; }
+    .annotation { stroke: #fa66a9; }
+    .annotation-text { fill: #fa66a9; }
+  </style>
+  <image href="raw/zero_hour.png" x="0" y="0"/>
+  <circle cx="940" cy="367" r="20" class="bonus"/>
+  <text x="940" y="367" class="bonus-text">Group 1</text>
+  <circle cx="384" cy="323" r="20" class="bonus"/>
+  <text x="384" y="323" class="bonus-text">Group 2</text>
+  <circle cx="98" cy="456" r="20" class="bonus"/>
+  <text x="98" y="456" class="bonus-text">Group 3</text>
+  <circle cx="823" cy="114" r="15" class="annotation"/>
+  <circle cx="747" cy="142" r="15" class="annotation"/>
+  <circle cx="685" cy="96" r="15" class="annotation"/>
+  <circle cx="244" cy="208" r="15" class="annotation"/>
+  <circle cx="177" cy="148" r="15" class="annotation"/>
+  <circle cx="184" cy="733" r="15" class="annotation"/>
+  <circle cx="114" cy="780" r="15" class="annotation"/>
+  <circle cx="76" cy="708" r="15" class="annotation"/>
+  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  SVG is unsupported.
+</svg>
