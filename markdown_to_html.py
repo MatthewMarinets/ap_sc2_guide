@@ -76,8 +76,8 @@ def process_line(line: str, result: List[str], state: MdParseState) -> None:
         else:
             result.append(f'<li>{item_contents}</li>\n')
         return
-    if line.startswith('<'):
-        result.append(line)
+    if line.strip().startswith('<'):
+        result.append(line.strip())
         result.append('\n')
     else:
         result.append(f'<p>{line}</p>\n')

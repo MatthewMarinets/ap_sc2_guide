@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="825" width="1519" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.layerY)">
+  <style>
+    path {
+        fill: transparent;
+        stroke-width: 2;
+    }
+    circle {
+        stroke-width: 3;
+        fill: transparent;
+    }
+    text {
+        font-family: LexendDeca-Light, sans-serif;
+        stroke: black;
+        paint-order: stroke;
+        stroke-width: 3;
+        dominant-baseline: middle;
+        text-anchor: middle;
+        font-size: 20px;
+    }
+    .bonus { stroke: #b9f; }
+    .bonus-text { fill: #b9f; }
+    .progression { stroke: yellow; }
+    .progression-text { fill: yellow; }
+    .annotation { stroke: #fa66a9; }
+    .annotation-text { fill: #fa66a9; }
+  </style>
+  <image href="raw/smash_and_grab.png" x="0" y="0"/>
+  <circle cx="476" cy="504" r="20" class="bonus"/>
+  <text x="476" y="474" class="bonus-text">First Relic</text>
+  <circle cx="325" cy="705" r="20" class="bonus"/>
+  <text x="325" y="675" class="bonus-text">Second Relic</text>
+  <circle cx="855" cy="749" r="20" class="bonus"/>
+  <text x="855" y="719" class="bonus-text">Third Relic</text>
+  <circle cx="1464" cy="609" r="20" class="bonus"/>
+  <text x="1464" y="579" class="bonus-text">Fourth Relic</text>
+  <circle cx="926" cy="543" r="30" class="progression"/>
+  <text x="926" y="503" class="progression-text">First FF</text>
+  <circle cx="1292" cy="514" r="30" class="progression"/>
+  <text x="1292" y="474" class="progression-text">Second FF</text>
+  <circle cx="1365" cy="472" r="20" class="progression"/>
+  <text x="1365" y="442" class="progression-text">Goal</text>
+  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  SVG is unsupported.
+</svg>

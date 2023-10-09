@@ -1,0 +1,16 @@
+{
+    "points": [
+        {"x": 51 , "y": 369, "type": "bonus", "r": 30, "label": "Left"},
+        {"x": 745, "y": 671, "type": "bonus", "r": 30, "label": "Right Ground"},
+        {"x": 659, "y": 785, "type": "bonus", "r": 30, "label": "Right Cliff"},
+        {"x": 281, "y": 571, "type": "progression", "r": 30, "label": "Moebius Base"},
+        {"x": 835, "y": 320, "type": "annotation", "r": 10},
+        {"x": 846, "y": 313, "type": "annotation", "r": 10},
+        {"x": 635, "y": 90 , "type": "annotation", "r": 10},
+        {"x": 65 , "y": 54 , "type": "annotation", "r": 10},
+        {"x": 79 , "y": 65 , "type": "annotation", "r": 10}
+    ],
+    "variables": {
+        "image_source": "raw/the_dig.png"
+    }
+}
