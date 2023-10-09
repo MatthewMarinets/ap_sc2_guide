@@ -1,8 +1,11 @@
 # Wings of Liberty Campaign Locations
 ## Table of Contents
-1. [Liberation Day](#Liberation-Day)
-1. [The Outlaws](#The-Outlaws)
-1. [Zero Hour](#Zero-Hour)
+1. Mar Sara
+  1. [Liberation Day](#Liberation-Day)
+  2. [The Outlaws](#The-Outlaws)
+  3. [Zero Hour](#Zero-Hour)
+2. Colonist
+   1. [Evacuation](#Evacuation)
 
 ## Liberation Day
 <img src="images/liberation_day.svg" style="background-image: url(images/raw/liberation_day.png?raw=true); background-size: 100% auto"/>
@@ -14,10 +17,28 @@
 ## The Outlaws
 <img src="images/the_outlaws.svg" style="background-image: url(images/raw/the_outlaws.png?raw=true); background-size: 100% auto"/>
 
-* Resource Pickups (bonus)
-* Rescue Rebel Base (bonus)
-* Nice job takin' out that bunker, Jimmy (progression)
-* Victory (progression)
+* **(Bonus)** Resource Pickups
+* **(Bonus)** Rescue Rebel Base
+* **(Progression)** Nice job takin' out that bunker, Jimmy
+* **(Progression)** Victory
 
 ## Zero Hour
 ![Map](./images/raw/zero_hour.png)
+
+## Evacuation
+<img src="images/evacuation.svg" style="background-image: url(images/raw/evacuation.png?raw=true); background-size: 100% auto">
+
+* **(Secret)** Secret resource stash 
+  * Note: This is reachable right at the start of the mission
+* **(Bonus)** 3x Zerg Crysalis
+* **(Progression)** Reach the colonist base
+* **(Progression)** Victory
+* **(Challenge)** Don't lose any colonist or truck
+
+## Outbreak
+<img src="images/outbreak.svg" style="background-image: url(images/raw/outbreak.png?raw=true); background-size: 100% auto">
+
+* **(Bonus)** Larry the Left infestor
+* **(Bonus)** Reggie the Right infestor
+* **(Progression)** Victory
+

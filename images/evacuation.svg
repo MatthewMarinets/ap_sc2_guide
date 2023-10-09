@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="853" width="724" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onclick="console.log(evt.layerX + ', ' + evt.layerY)">
+  <style>
+    circle {
+        stroke-width: 3;
+        fill: transparent;
+    }
+    text {
+        stroke: black;
+        paint-order: stroke;
+        stroke-width: 1.8;
+        dominant-baseline: bottom;
+        text-anchor: middle;
+        font-size: 20px;
+        transform: translate(0, -35px);
+    }
+    .bonus { stroke: #b9f; }
+    .bonus-text { fill: #b9f; }
+    .progression { stroke: yellow; }
+    .progression-text { fill: yellow; }
+    .annotation { stroke: #fa66a9; }
+    .annotation-text { fill: #fa66a9; }
+  </style>
+  <image href="raw/evacuation.png" x="0" y="0"/>
+  <circle cx="472" cy="184" r="20" class="bonus"/>
+  <circle cx="454" cy="510" r="20" class="bonus"/>
+  <circle cx="80" cy="441" r="20" class="bonus"/>
+  <circle cx="606" cy="559" r="30" class="annotation"/>
+  <text x="606" y="559" class="annotation-text">Resource Stash</text>
+  <circle cx="326" cy="768" r="30" class="progression"/>
+  <text x="326" y="768" class="progression-text">Colonist Base</text>
+  <circle cx="528" cy="78" r="30" class="progression"/>
+  <text x="528" y="78" class="progression-text">Goal</text>
+  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  SVG is unsupported.
+</svg>

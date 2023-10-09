@@ -34,8 +34,8 @@ def html_escape(line: str) -> str:
 
 
 def process_formatting(line: str) -> str:
-    line = re.sub(r'\*\*(\w(.*?\w)?)\*\*', lambda match: f'<b>{match.group(1)}</b>', line)
-    line = re.sub(r'\*(\w(.*?\w)?)\*', lambda match: f'<em>{match.group(1)}</em>', line)
+    line = re.sub(r'\*\*([^\s](.*?[^\s])?)\*\*', lambda match: f'<b>{match.group(1)}</b>', line)
+    line = re.sub(r'\*([^\s](.*?[^\s])?)\*', lambda match: f'<em>{match.group(1)}</em>', line)
     line = re.sub(r'`(.*?)`', lambda match: f'<code>{html_escape(match.group(1))}</code>', line)
     line = re.sub(r'!\[(.*?)\]\((.*?)\)', lambda match: f'<img src="{match.group(2)}" alt="{match.group(1)}"/>', line)
     line = re.sub(r'\[(.*?)\]\((.*?)\)', lambda match: f'<a href="{match.group(2)}">{match.group(1)}</a>', line)
@@ -66,7 +66,6 @@ def process_line(line: str, result: List[str], state: MdParseState) -> None:
         elif level < state.list_stack[-1][1]:
             while state.list_stack and level < state.list_stack[-1][1]:
                 result.append(f'</{state.list_stack.pop()[0]}>\n')
-            result.append(f'<{list_type}>\n')
             result.append(f'<li>{item_contents}</li>\n')
             state.list_stack.append((list_type, level))
         elif state.list_stack[-1][0] != list_type:

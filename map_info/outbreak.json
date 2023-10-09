@@ -1,0 +1,15 @@
+{
+    "points": [
+        {"x": "728", "y": "552", "type": "bonus", "label": "Reggie"},
+        {"x": "92" , "y": "751", "type": "bonus", "label": "Larry"},
+        {"x": "606", "y": "60" , "type": "progression", "label": "North CC"},
+        {"x": "635", "y": "842", "type": "progression", "label": "South CC"},
+        {"x": "73",  "y": "93",  "type": "progression", "label": "Northwest Bar"},
+        {"x": "274", "y": "39",  "type": "progression", "label": "North Bar"},
+        {"x": "312", "y": "839", "type": "progression", "label": "South Bar"}
+    ],
+    "variables": {
+        "image_source": "raw/outbreak.png",
+        "label_offset": "0, 35px"
+    }
+}

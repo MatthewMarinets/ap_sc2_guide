@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg height="854" width="699" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onclick="console.log(evt.layerX + ', ' + evt.layerY)">
+<svg height="854" width="836" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onclick="console.log(evt.layerX + ', ' + evt.layerY)">
   <style>
     circle {
         stroke-width: 3;
@@ -21,7 +21,7 @@
     .annotation { stroke: #fa66a9; }
     .annotation-text { fill: #fa66a9; }
   </style>
-  <image href="raw/liberation_day.png" x="0" y="0"/>
+  <image href="raw/havens_fall.png" x="0" y="0"/>
   <circle cx="615" cy="660" r="20" class="bonus"/>
   <circle cx="362" cy="622" r="20" class="bonus"/>
   <circle cx="175" cy="356" r="20" class="bonus"/>

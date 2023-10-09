@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
- "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg height="$(height)" width="$(width)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onclick="console.log(evt.layerX + ', ' + evt.layerY)">
   <style>
     circle {
@@ -8,24 +6,20 @@
         fill: transparent;
     }
     text {
-        stroke-width: 0.3;
+        stroke: black;
+        paint-order: stroke;
+        stroke-width: 1.8;
         dominant-baseline: bottom;
         text-anchor: middle;
         font-size: 20px;
-        transform: translate(0, -35px);
+        transform: translate($(label_offset));
     }
-    .bonus {
-        stroke: $(bonus_colour);
-    }
-    .bonus-text {
-        fill: $(bonus_colour);
-    }
-    .progression {
-        stroke: $(progression_colour);
-    }
-    .progression-text {
-        fill: $(progression_colour);
-    }
+    .bonus { stroke: $(bonus_colour); }
+    .bonus-text { fill: $(bonus_colour); }
+    .progression { stroke: $(progression_colour); }
+    .progression-text { fill: $(progression_colour); }
+    .annotation { stroke: $(annotation_colour); }
+    .annotation-text { fill: $(annotation_colour); }
   </style>
   <image href="$(image_source)" x="0" y="0"/>
 $(points)

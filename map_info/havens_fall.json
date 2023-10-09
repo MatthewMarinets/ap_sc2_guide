@@ -10,6 +10,6 @@
         {"x": "468", "y": "108", "type": "progression", "r": "30", "label": "Goal"}
     ],
     "variables": {
-        "image_source": "raw/liberation_day.png"
+        "image_source": "raw/havens_fall.png"
     }
 }

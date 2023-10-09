@@ -6,8 +6,6 @@
         {"x": "278", "y": "212", "type": "progression", "r": "30", "label": "Goal"}
     ],
     "variables": {
-        "bonus_colour": "#b9f",
-        "progression_colour": "yellow",
         "image_source": "raw/the_outlaws.png"
     }
 }

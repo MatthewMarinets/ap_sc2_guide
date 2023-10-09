@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="896" width="799" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onclick="console.log(evt.layerX + ', ' + evt.layerY)">
+  <style>
+    circle {
+        stroke-width: 3;
+        fill: transparent;
+    }
+    text {
+        stroke: black;
+        paint-order: stroke;
+        stroke-width: 1.8;
+        dominant-baseline: bottom;
+        text-anchor: middle;
+        font-size: 20px;
+        transform: translate(0, 35px);
+    }
+    .bonus { stroke: #b9f; }
+    .bonus-text { fill: #b9f; }
+    .progression { stroke: yellow; }
+    .progression-text { fill: yellow; }
+    .annotation { stroke: #fa66a9; }
+    .annotation-text { fill: #fa66a9; }
+  </style>
+  <image href="raw/outbreak.png" x="0" y="0"/>
+  <circle cx="728" cy="552" r="20" class="bonus"/>
+  <text x="728" y="552" class="bonus-text">Reggie</text>
+  <circle cx="92" cy="751" r="20" class="bonus"/>
+  <text x="92" y="751" class="bonus-text">Larry</text>
+  <circle cx="606" cy="60" r="20" class="progression"/>
+  <text x="606" y="60" class="progression-text">North CC</text>
+  <circle cx="635" cy="842" r="20" class="progression"/>
+  <text x="635" y="842" class="progression-text">South CC</text>
+  <circle cx="73" cy="93" r="20" class="progression"/>
+  <text x="73" y="93" class="progression-text">Northwest Bar</text>
+  <circle cx="274" cy="39" r="20" class="progression"/>
+  <text x="274" y="39" class="progression-text">North Bar</text>
+  <circle cx="312" cy="839" r="20" class="progression"/>
+  <text x="312" y="839" class="progression-text">South Bar</text>
+  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  SVG is unsupported.
+</svg>
