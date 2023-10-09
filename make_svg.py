@@ -36,7 +36,7 @@ def fetch_template():
             _template_contents.append(fp.read())
     return _template_contents[0]
 
-TMapInfo = Dict[Literal["points", "variables"], List[Dict[str, str]] | Dict[str, str]]
+TMapInfo = Dict[Literal["points", "variables", "paths"], List[Dict[str, str]] | Dict[str, str]]
 def svg_for_points(filename: str, map_info: TMapInfo) -> str:
     result: List[str] = []
     points: List[Dict[str, str]] = map_info.get('points')
@@ -67,6 +67,10 @@ def print_svg(input_json: str, target_file: str) -> None:
     for variable_name, variable_value in variables.items():
         contents = contents.replace(f'$({variable_name})', str(variable_value))
     points = svg_for_points(input_json, map_info)
+    paths: List[Dict[str, str]] = map_info.get("paths", [])
+    for path in paths:
+        assert "d" in path, f"Path was missing a 'd' attribute in {input_json}"
+        points += f'\n  <path d="{path["d"]}" class="{path.get("type", "annotation")}"/>'
     contents = contents.replace(f'$(points)', points)
     with open(target_file, 'w', encoding='utf-8') as fp:
         fp.write(contents)

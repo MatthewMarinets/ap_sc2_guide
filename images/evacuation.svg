@@ -2,6 +2,10 @@
 <svg height="853" width="724" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 onclick="console.log('&quot;x&quot;: &quot;' + evt.layerX + '&quot;, &quot;y&quot;: &quot;' + evt.layerY + '&quot;')">
   <style>
+    path {
+        fill: transparent;
+        stroke-width: 2;
+    }
     circle {
         stroke-width: 3;
         fill: transparent;
@@ -32,6 +36,7 @@ onclick="console.log('&quot;x&quot;: &quot;' + evt.layerX + '&quot;, &quot;y&quo
   <text x="326" y="768" class="progression-text">Colonist Base</text>
   <circle cx="528" cy="78" r="30" class="progression"/>
   <text x="528" y="78" class="progression-text">Goal</text>
+  <path d="M 664 740 L 624 655 L 626 632 L 603 610 L 605 588" class="annotation"/>
   <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
   SVG is unsupported.
 </svg>

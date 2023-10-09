@@ -2,6 +2,10 @@
 <svg height="854" width="836" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 onclick="console.log('&quot;x&quot;: &quot;' + evt.layerX + '&quot;, &quot;y&quot;: &quot;' + evt.layerY + '&quot;')">
   <style>
+    path {
+        fill: transparent;
+        stroke-width: 2;
+    }
     circle {
         stroke-width: 3;
         fill: transparent;
