@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="736" width="1168" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.layerY)">
+  <style>
+    path {
+        fill: transparent;
+        stroke-width: 2;
+    }
+    circle {
+        stroke-width: 3;
+        fill: transparent;
+    }
+    text {
+        font-family: LexendDeca-Light, sans-serif;
+        stroke: black;
+        paint-order: stroke;
+        stroke-width: 3;
+        dominant-baseline: middle;
+        text-anchor: middle;
+        font-size: 20px;
+    }
+    .bonus { stroke: #b9f; }
+    .bonus-text { fill: #b9f; }
+    .progression { stroke: yellow; }
+    .progression-text { fill: yellow; }
+    .annotation { stroke: #fa66a9; }
+    .annotation-text { fill: #fa66a9; }
+  </style>
+  <image href="raw/the_moebius_factor.png" x="0" y="0"/>
+  <circle cx="447" cy="474" r="20" class="bonus"/>
+  <text x="447" y="444" class="bonus-text">Brutalisk Moe</text>
+  <circle cx="850" cy="547" r="20" class="bonus"/>
+  <text x="850" y="517" class="bonus-text">South</text>
+  <circle cx="771" cy="295" r="20" class="bonus"/>
+  <text x="771" y="265" class="bonus-text">Wall</text>
+  <circle cx="630" cy="232" r="20" class="bonus"/>
+  <text x="630" y="202" class="bonus-text">Mid</text>
+  <circle cx="373" cy="276" r="20" class="bonus"/>
+  <text x="373" y="246" class="bonus-text">Alive Inside</text>
+  <circle cx="340" cy="199" r="20" class="bonus"/>
+  <text x="340" y="169" class="bonus-text">Nydus</text>
+  <circle cx="810" cy="582" r="30" class="progression"/>
+  <text x="810" y="622" class="progression-text">1st</text>
+  <circle cx="704" cy="66" r="30" class="progression"/>
+  <text x="704" y="26" class="progression-text">2nd</text>
+  <circle cx="86" cy="399" r="30" class="progression"/>
+  <text x="86" y="359" class="progression-text">3rd</text>
+  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  SVG is unsupported.
+</svg>

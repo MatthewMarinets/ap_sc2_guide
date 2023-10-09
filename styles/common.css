@@ -37,6 +37,11 @@ img {
     margin: auto;
     max-width: 100%;
     height: auto;
+    transition: transform .4s;
+}
+
+img:active {
+    transform: scale(1.5);
 }
 
 /* temporary until I make more solid colour-coding */

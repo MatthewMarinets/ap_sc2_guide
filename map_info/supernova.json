@@ -1,0 +1,15 @@
+{
+    "points": [
+        {"x": 522, "y": 463, "type": "bonus", "label": "West Relic"},
+        {"x": 603, "y": 223, "type": "bonus", "label": "North Relic"},
+        {"x": 734, "y": 698, "type": "bonus", "label": "South Relic"},
+        {"x": 1470, "y": 594, "type": "bonus", "label": "East Relic"},
+        {"x": 317, "y": 529, "type": "progression", "r": 30, "label": "Landing Zone"},
+        {"x": 879, "y": 468, "type": "progression", "r": 30, "label": "Middle Base"},
+        {"x": 1221, "y": 623,"type": "progression", "r": 30, "label": "Southeast Base"},
+        {"x": 1501, "y": 199,"type": "progression", "r": 30, "label": "Goal"}
+    ],
+    "variables": {
+        "image_source": "raw/supernova.png"
+    }
+}

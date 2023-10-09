@@ -1,0 +1,20 @@
+{
+    "points": [
+        {"x": 910 , "y": 204, "type": "bonus", "label": "Expansion DTs"},
+        {"x": 1062, "y": 530, "type": "bonus", "label": "South Close DTs"},
+        {"x": 660 , "y": 62 , "type": "bonus", "label": "North DTs"},
+        {"x": 445 , "y": 601, "type": "bonus", "label": "South Far DTs"},
+        {"x": 1661, "y": 238, "type": "progression", "r": 30, "label": "Landing Zone"},
+        {"x": 1033, "y": 242, "type": "progression", "r": 30, "label": "Expansion Gen"},
+        {"x": 758 , "y": 298, "type": "progression", "r": 30, "label": "Middle Gen"},
+        {"x": 660 , "y": 570, "type": "progression", "r": 30, "label": "Southeast Gen"},
+        {"x": 539 , "y": 248, "type": "progression", "r": 30, "label": "Stargate Gen"},
+        {"x": 241 , "y": 548, "type": "progression", "r": 30, "label": "Southwest Gen"},
+        {"x": 230 , "y": 103, "type": "progression", "r": 30, "label": "Northwest Gen"},
+        {"x": 88  , "y": 324, "type": "progression", "r": 30, "label": "West Gen"},
+        {"x": 218 , "y": 328, "type": "progression", "r": 40, "label": "Goal"}
+    ],
+    "variables": {
+        "image_source": "raw/maw_of_the_void.png"
+    }
+}

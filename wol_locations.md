@@ -14,6 +14,9 @@
 </ol><li>Artifact</li><ol>
    <li>[Smash and Grab](#Smash-and-Grab)</li>
    <li>[The Dig](#The-Dig)</li>
+   <li>[The Moebius Factor](#The-Moebius-Factor)</li>
+   <li>[Supernova](#Supernova)</li>
+   <li>[Maw of the Void](#Maw-of-the-Void)</li>
 </ol></ol>
 </div>
 
@@ -88,6 +91,9 @@
 * **Challenge** Southeast Colony Base
 * **Challenge** Southwest Colony Base
 
+### Tips
+* You can send one of your starting vikings south to gas island at the start of the mission to get +600 starting gas
+
 ## Smash and Grab
 <img src="images/smash_and_grab.svg" style="background-image: url(images/raw/smash_and_grab.png?raw=true); background-size: 100% auto">
 
@@ -116,7 +122,53 @@
 * There are five "special pylons" (annotated above) in 3 groups. Kill all the Pylons in a group, and the Warp Prism / air wave won't spawn from that direction
 
 ## The Moebius Factor
+<img src="images/the_moebius_factor.svg" style="background-image: url(images/raw/the_moebius_factor.png?raw=true); background-size: 100% auto">
+
+* **Bonus** South Rescue
+* **Bonus** Wall Rescue
+* **Bonus** Mid Rescue
+* **Bonus** Nydus Roof Rescue
+* **Bonus** Alive Inside Rescue
+* **Bonus** Brutalisk (Moe)
+* **Progression** 1st Data Core
+* **Progression** 2nd Data Core
+* **Progression** 3rd Data Core
+* **Progression** Victory
+
+### Tips
+* The 1st data core can be cleaned up from the highground with just your starting units and the south rescue group
+* The 2nd data core can be killed from the low-ground with just one ranged unit. To drop this unit, the medivac must circle the entire northeastern base
+* Missile Turrets on Moe's island can heavily slow down or outright stop many attack waves
 
 ## Supernova
+<img src="images/supernova.svg" style="background-image: url(images/raw/supernova.png?raw=true); background-size: 100% auto">
+
+* **Bonus** West Relic
+* **Bonus** North Relic
+* **Bonus** South Relic
+* **Bonus** East Relic
+* **Progression** Landing Zone Cleared
+* **Progression** Middle Base
+* **Progression** Southeast Base
+* **Progression** Victory
 
 ## Maw of the Void
+<img src="images/maw_of_the_void.svg" style="background-image: url(images/raw/maw_of_the_void.png?raw=true); background-size: 100% auto">
+
+* **Bonus** Expansion Prisoners
+* **Bonus** South Close Prisoners
+* **Bonus** South Far Prisoners
+* **Bonus** North Prisoners
+* **Bonus** Mothership
+* **Progression** Landing Zone Cleared
+* **Progression** Expansion Rip Field Generator
+* **Progression** Middle Rip Field Generator
+* **Progression** Southeast Rip Field Generator
+* **Progression** Stargate Rip Field Generator
+* **Progression** Northwest Rip Field Generator
+* **Progression** West Rip Field Generator
+* **Progression** Southwest Rip Field Generator
+* **Progression** Victory
+
+### Tips
+* The Nerazim Dark Templar you rescue can use Shadow Fury to snipe cannons from outside their detection range
