@@ -53,6 +53,8 @@ onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.
   <text x="88" y="284" class="progression-text">West Gen</text>
   <circle cx="218" cy="328" r="40" class="progression"/>
   <text x="218" y="278" class="progression-text">Goal</text>
+  <circle cx="1270" cy="480" r="20" class="annotation"/>
+  <text x="1270" y="510" class="annotation-text">L80ETC</text>
   <rect width="100%" height="100%" fill="transparent" stroke="#fae"/>
   SVG is unsupported.
 </svg>

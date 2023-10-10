@@ -10,7 +10,8 @@
         {"x": 177, "y": 148, "type": "annotation", "r": 15},
         {"x": 184, "y": 733, "type": "annotation", "r": 15},
         {"x": 114, "y": 780, "type": "annotation", "r": 15},
-        {"x": 76 , "y": 708, "type": "annotation", "r": 15}
+        {"x": 76 , "y": 708, "type": "annotation", "r": 15},
+        {"x": 362, "y": 59 , "type": "annotation", "r": 20, "label": "L80ETC"}
     ],
     "variables": {
         "image_source": "raw/zero_hour.png"

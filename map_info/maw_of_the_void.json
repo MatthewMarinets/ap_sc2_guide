@@ -12,7 +12,8 @@
         {"x": 241 , "y": 548, "type": "progression", "r": 30, "label": "Southwest Gen"},
         {"x": 230 , "y": 103, "type": "progression", "r": 30, "label": "Northwest Gen"},
         {"x": 88  , "y": 324, "type": "progression", "r": 30, "label": "West Gen"},
-        {"x": 218 , "y": 328, "type": "progression", "r": 40, "label": "Goal"}
+        {"x": 218 , "y": 328, "type": "progression", "r": 40, "label": "Goal"},
+        {"x": 1270, "y": 480, "type": "annotation", "r": 20, "label_below": "L80ETC"}
     ],
     "variables": {
         "image_source": "raw/maw_of_the_void.png"

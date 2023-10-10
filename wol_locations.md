@@ -73,6 +73,7 @@
 
 ### Tips
 * The enemy rebuilds their hatcheries, and killing morphing hatcheries counts towards the check
+* Meet L80ETC, the Tauren Marine who was transported to the Koprulu Sector
 
 ## Evacuation
 <img src="images/evacuation.svg" style="background-image: url(images/raw/evacuation.png?raw=true); background-size: 100% auto">
@@ -203,6 +204,7 @@
 
 ### Tips
 * The Nerazim Dark Templar you rescue can use Shadow Fury to snipe cannons from outside their detection range
+* L80ETC is occasionally seen flying his spaceship in the background of the mission
 
 ## The Devil's Playground
 <img src="images/devils_playground.svg" style="background-image: url(images/raw/devils_playground.png?raw=true); background-size: 100% auto">
@@ -253,6 +255,9 @@
 * **Progression** Terrazine Tank
 * **Progression** Jorium Stockpile
 * **Victory**
+
+### Tips
+* L80ETC is occasionally seen flying his spaceship in the background of the mission
 
 ## The Great Train Robbery
 <img src="images/the_great_train_robbery.svg" style="background-image: url(images/raw/the_great_train_robbery.png?raw=true); background-size: 100% auto">
