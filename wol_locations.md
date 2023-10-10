@@ -34,6 +34,9 @@
    4. [In Utter Darkness](#In-Utter-Darkness)
 7. Char
    1. [The Gates of Hell](#The-Gates-of-Hell)
+   2. [Belly of the Beast](#Belly-of-the-Beast)
+   3. [Shatter the Sky](#Shatter-the-Sky)
+   4. [All-In](#All-In)
 </div>
 
 ## Contibutors
@@ -391,5 +394,37 @@
 * **Progression** Rescue 4 Drop Pods
 * **Progression** Rescue 6 Drop Pods
 * **Progression** Rescue 8 Drop Pods
+* **Victory**
+
+## Belly of the Beast
+<img src="images/belly_of_the_beast_1.svg" style="background-image: url(images/raw/belly_of_the_beast_1.png?raw=true); background-size: 100% auto">
+<img src="images/belly_of_the_beast_2.svg" style="background-image: url(images/raw/belly_of_the_beast_2.png?raw=true); background-size: 100% auto">
+<img src="images/belly_of_the_beast_3.svg" style="background-image: url(images/raw/belly_of_the_beast_3.png?raw=true); background-size: 100% auto">
+<img src="images/belly_of_the_beast_4.svg" style="background-image: url(images/raw/belly_of_the_beast_4.png?raw=true); background-size: 100% auto">
+
+* **Bonus** First Group Rescued
+* **Bonus** Second Group Rescued
+* **Bonus** Third Group Rescued
+* **Progression** First Charge
+* **Progression** Second Charge
+* **Progression** Third Charge
+* **Victory**
+
+## Shatter the Sky
+<img src="images/shatter_the_sky.svg" style="background-image: url(images/raw/shatter_the_sky.png?raw=true); background-size: 100% auto">
+
+* **Progression** Close Coolant Tower
+* **Progression** Northwest Coolant Tower
+* **Progression** Southeast Coolant Tower
+* **Progression** Southwest Coolant Tower
+* **Progression** East Hatchery
+* **Progression** North Hatchery
+* **Progression** Mid Hatchery
+* **Boss** Leviathan
+* **Victory**
+
+## All-In
+<img src="images/raw/all_in.png" style="background-size: 100% auto">
+
 * **Victory**
 

@@ -1,0 +1,14 @@
+{
+    "points": [
+        {"x": 757, "y": 378, "type": "bonus", "r": 20, "label": "East Hatchery"},
+        {"x": 487, "y": 95 , "type": "bonus", "r": 20, "label": "North Hatchery"},
+        {"x": 430, "y": 492, "type": "bonus", "r": 20, "label": "Mid Hatchery"},
+        {"x": 575, "y": 302, "type": "progression", "r": 15, "label": "Close Tower"},
+        {"x": 184, "y": 123, "type": "progression", "r": 15, "label": "Northwest Tower"},
+        {"x": 642, "y": 680, "type": "progression", "r": 15, "label": "Southeast Tower"},
+        {"x": 176, "y": 640, "type": "progression", "r": 15, "label": "Southwest Tower"}
+    ],
+    "variables": {
+        "image_source": "raw/shatter_the_sky.png"
+    }
+}

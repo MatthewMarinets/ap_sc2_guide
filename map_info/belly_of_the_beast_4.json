@@ -1,0 +1,8 @@
+{
+    "points": [
+        {"x": 243, "y": 129, "type": "progression", "r": 20, "label": "Goal"}
+    ],
+    "variables": {
+        "image_source": "raw/belly_of_the_beast_4.png"
+    }
+}

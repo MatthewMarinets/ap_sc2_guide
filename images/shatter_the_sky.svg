@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="810" width="854" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.layerY)">
+  <style>
+    path {
+        fill: transparent;
+        stroke-width: 2;
+    }
+    circle {
+        stroke-width: 3;
+        fill: transparent;
+    }
+    text {
+        font-family: LexendDeca-Light, sans-serif;
+        stroke: black;
+        paint-order: stroke;
+        stroke-width: 3;
+        dominant-baseline: middle;
+        text-anchor: middle;
+        font-size: 20px;
+    }
+    .bonus { stroke: #b9f; }
+    .bonus-text { fill: #b9f; }
+    .progression { stroke: yellow; }
+    .progression-text { fill: yellow; }
+    .annotation { stroke: #fa66a9; }
+    .annotation-text { fill: #fa66a9; }
+  </style>
+  <image href="raw/shatter_the_sky.png" x="0" y="0"/>
+  <circle cx="757" cy="378" r="20" class="bonus"/>
+  <text x="757" y="348" class="bonus-text">East Hatchery</text>
+  <circle cx="487" cy="95" r="20" class="bonus"/>
+  <text x="487" y="65" class="bonus-text">North Hatchery</text>
+  <circle cx="430" cy="492" r="20" class="bonus"/>
+  <text x="430" y="462" class="bonus-text">Mid Hatchery</text>
+  <circle cx="575" cy="302" r="15" class="progression"/>
+  <text x="575" y="277" class="progression-text">Close Tower</text>
+  <circle cx="184" cy="123" r="15" class="progression"/>
+  <text x="184" y="98" class="progression-text">Northwest Tower</text>
+  <circle cx="642" cy="680" r="15" class="progression"/>
+  <text x="642" y="655" class="progression-text">Southeast Tower</text>
+  <circle cx="176" cy="640" r="15" class="progression"/>
+  <text x="176" y="615" class="progression-text">Southwest Tower</text>
+  <rect width="100%" height="100%" fill="transparent" stroke="#fae"/>
+  SVG is unsupported.
+</svg>

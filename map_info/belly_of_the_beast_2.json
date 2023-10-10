@@ -1,0 +1,9 @@
+{
+    "points": [
+        {"x": 825, "y": 597, "type": "bonus", "r": 30, "label": "Group 2"},
+        {"x": 703, "y": 147, "type": "progression", "r": 20, "label": "Second Charge"}
+    ],
+    "variables": {
+        "image_source": "raw/belly_of_the_beast_2.png"
+    }
+}
