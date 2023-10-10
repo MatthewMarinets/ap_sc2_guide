@@ -28,9 +28,13 @@ onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.
   </style>
   <image href="raw/outbreak.png" x="0" y="0"/>
   <circle cx="728" cy="552" r="20" class="bonus"/>
-  <text x="728" y="522" class="bonus-text">Reggie</text>
+  <text x="728" y="522" class="bonus-text">Infestor</text>
+  <circle cx="728" cy="552" r="20" class="bonus"/>
+  <text x="728" y="582" class="bonus-text">Reggie</text>
   <circle cx="92" cy="751" r="20" class="bonus"/>
-  <text x="92" y="721" class="bonus-text">Larry</text>
+  <text x="92" y="721" class="bonus-text">Infestor</text>
+  <circle cx="92" cy="751" r="20" class="bonus"/>
+  <text x="92" y="781" class="bonus-text">Larry</text>
   <circle cx="606" cy="60" r="20" class="progression"/>
   <text x="606" y="30" class="progression-text">North CC</text>
   <circle cx="635" cy="842" r="20" class="progression"/>

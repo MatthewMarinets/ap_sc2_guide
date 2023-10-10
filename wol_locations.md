@@ -49,8 +49,8 @@
 ## The Outlaws
 <img src="images/the_outlaws.svg" style="background-image: url(images/raw/the_outlaws.png?raw=true); background-size: 100% auto"/>
 
-* **Bonus** North Resource Pickups
-* **Bonus** Rebel Base
+* **Bonus** Clear the North Resource Pickups
+* **Bonus** Rescue the Rebel Base
 * **Progression** Nice job takin' out that bunker, Jimmy
 * **Victory**
 
@@ -84,16 +84,21 @@
 ## Outbreak
 <img src="images/outbreak.svg" style="background-image: url(images/raw/outbreak.png?raw=true); background-size: 100% auto">
 
-* **Bonus** Larry the Left infestor
-* **Bonus** Reggie the Right infestor
+* **Bonus** Defeat Larry the Left infestor
+* **Bonus** Defeat Reggie the Right infestor
+* **Progression** Destroy the North Infested Command Center
+* **Progression** Destroy the South Infested Command Center
+* **Progression** Destroy the Northwest Bar
+* **Progression** Destroy the North Bar
+* **Progression** Destroy the South Bar
 * **Victory**
 
 ## Safe Haven
 <img src="images/safe_haven.svg" style="background-image: url(images/raw/safe_haven.png?raw=true); background-size: 100% auto">
 
-* **Bonus** First Terror Fleet
-* **Bonus** Second Terror Fleet
-* **Bonus** Third Terror Fleet
+* **Bonus** Defeat the First Terror Fleet
+* **Bonus** Defeat the Second Terror Fleet
+* **Bonus** Defeat the Third Terror Fleet
 * **Progression** North Nexus
 * **Progression** East Nexus
 * **Progression** South Nexus
@@ -150,7 +155,7 @@
 * **Bonus** Mid Rescue
 * **Bonus** Nydus Roof Rescue
 * **Bonus** Alive Inside Rescue
-* **Boss** Marshmallow the Moebius Brutalisk
+* **Boss** Defeat Marshmallow the Moebius Brutalisk
 * **Progression** 1st Data Core
 * **Progression** 2nd Data Core
 * **Progression** 3rd Data Core
@@ -203,7 +208,7 @@
 * **Bonus** Southwest Reapers
 * **Bonus** Southeast Reapers
 * **Bonus** East Reapers
-* **Boss** Donut the Devil's Brutalisk
+* **Boss** Defeat Donut the Devilish Brutalisk
 * **Victory**
 
 ## Welcome to the Jungle

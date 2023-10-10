@@ -1,7 +1,9 @@
 {
     "points": [
-        {"x": 728, "y": 552, "type": "bonus", "label": "Reggie"},
-        {"x": 92 , "y": 751, "type": "bonus", "label": "Larry"},
+        {"x": 728, "y": 552, "type": "bonus", "label": "Infestor"},
+        {"x": 728, "y": 552, "type": "bonus", "label": "Reggie", "label_position": "below"},
+        {"x": 92 , "y": 751, "type": "bonus", "label": "Infestor"},
+        {"x": 92 , "y": 751, "type": "bonus", "label": "Larry", "label_position": "below"},
         {"x": 606, "y": 60 , "type": "progression", "label": "North CC"},
         {"x": 635, "y": 842, "type": "progression", "label": "South CC"},
         {"x": 73,  "y": 93,  "type": "progression", "label": "Northwest Bar"},
