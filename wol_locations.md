@@ -32,6 +32,8 @@
    2. [A Sinster Turn](#A-Sinister-Turn)
    3. [Echoes of the Future](#Echoes-of-the-Future)
    4. [In Utter Darkness](#In-Utter-Darkness)
+7. Char
+   1. [The Gates of Hell](#The-Gates-of-Hell)
 </div>
 
 ## Contibutors
@@ -340,7 +342,7 @@
 * **Victory**
 
 ### Tips
-* The first couple of sections can be skipped by blinking Zeratul over the wall using vision you get around hte marked point
+* The first couple of sections can be skipped by blinking Zeratul over the wall using vision you get around the marked point
 * The third hatchery can be hit from the low-ground by your stalkers. No need to fight throught all the roaches and spine crawlers
 
 ## A Sinister Turn
@@ -378,5 +380,15 @@
 * **Progression** In Utter Darkness: Mohandar
 * **Progression** In Utter Darkness: Selendis
 * **Progression** In Utter Darkness: Artanis
+* **Victory**
+
+## The Gates of Hell
+<img src="images/gates_of_hell.svg" style="background-image: url(images/raw/gates_of_hell.png?raw=true); background-size: 100% auto">
+
+* **Progression** Gather Large Army
+* **Progression** Rescue 2 Drop Pods
+* **Progression** Rescue 4 Drop Pods
+* **Progression** Rescue 6 Drop Pods
+* **Progression** Rescue 8 Drop Pods
 * **Victory**
 

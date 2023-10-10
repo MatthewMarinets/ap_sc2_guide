@@ -1,0 +1,18 @@
+{
+    "points": [
+        {"x": 490, "y": 244, "type": "bonus", "r": 10, "label": "Drop 1"},
+        {"x": 584, "y": 602, "type": "bonus", "r": 10, "label": "Drop 2"},
+        {"x": 106, "y": 323, "type": "bonus", "r": 20, "label": "Drop 3"},
+        {"x": 742, "y": 493, "type": "bonus", "r": 10, "label": "Drop 4"},
+        {"x": 320, "y": 602, "type": "bonus", "r": 20, "label": "Drop 5"},
+        {"x": 235, "y": 250, "type": "bonus", "r": 10, "label": "Drop 6"},
+        {"x": 613, "y": 193, "type": "bonus", "r": 10, "label": "Drop 7"},
+        {"x": 493, "y": 738, "type": "bonus", "r": 10, "label": "Drop 7"},
+        {"x": 385, "y": 87 , "type": "bonus", "r": 10, "label": "Drop 8"},
+        {"x": 73 , "y": 368, "type": "bonus", "r": 10, "label": "Drop 8"},
+        {"x": 1026, "y": 269, "type": "progression", "r": 30, "label": "Goal"}
+    ],
+    "variables": {
+        "image_source": "raw/gates_of_hell.png"
+    }
+}
