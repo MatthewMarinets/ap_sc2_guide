@@ -49,7 +49,8 @@ def svg_for_points(filename: str, map_info: TMapInfo) -> str:
         r = int(point.get("r", 20))
         x: int = point["x"]
         y: int = point["y"]
-        result.append(f'  <circle cx="{x}" cy="{y}" r="{r}" class="{point_type}"/>')
+        if r:
+            result.append(f'  <circle cx="{x}" cy="{y}" r="{r}" class="{point_type}"/>')
         if label := point.get("label"):
             dx = 0
             dy = HALF_LABEL_FONT_SIZE + r

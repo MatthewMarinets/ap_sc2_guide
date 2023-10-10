@@ -27,6 +27,11 @@
    3. [Engine of Destruction](#Engine-of-Destruction)
    4. [Media Blitz](#Media-Blitz)
    5. [Piercing the Shroud](#Piercing-the-Shroud)
+6. Prophecy
+   1. [Whispers of Doom](#Whispers-of-Doom)
+   2. [A Sinster Turn](#A-Sinister-Turn)
+   3. [Echoes of the Future](#Echoes-of-the-Future)
+   4. [In Utter Darkness](#In-Utter-Darkness)
 </div>
 
 ## Contibutors
@@ -317,3 +322,56 @@
 ### Tips
 * If you've never seen this mission before, it's a secret mission normally unlocked by collecting the secret documents in Media Blitz
 * Murky is on this map in a marine suit
+
+## Whispers of Doom
+<img src="images/whispers_of_doom.svg" style="background-image: url(images/raw/whispers_of_doom.png?raw=true); background-size: 100% auto">
+
+* **Bonus** First Hatchery
+* **Bonus** Second Hatchery
+* **Bonus** Third Hatchery
+* **Progression** First Prophecy Fragment
+* **Progression** Second Prophecy Fragment
+* **Progression** Third Prophecy Fragment
+* **Victory**
+
+### Tips
+* The first couple of sections can be skipped by blinking Zeratul over the wall using vision you get around hte marked point
+* The third hatchery can be hit from the low-ground by your stalkers. No need to fight throught all the roaches and spine crawlers
+
+## A Sinister Turn
+<img src="images/a_sinister_turn.svg" style="background-image: url(images/raw/a_sinister_turn.png?raw=true); background-size: 100% auto">
+
+* **Bonus** Power the Robotics Facility
+* **Bonus** Power the Dark Shrine
+* **Bonus** Power the Templar Archives
+* **Progression** Destroy the Northeast Base
+* **Progression** Destroy the Southwest Base
+* **Progression** Defeat Maar the first time
+* **Progression** Northwest Preserver
+* **Progression** Southwest Preserver
+* **Progression** East Preserver
+* **Victory**
+
+## Echoes of the Future
+<img src="images/echoes_of_the_future.svg" style="background-image: url(images/raw/echoes_of_the_future.png?raw=true); background-size: 100% auto">
+
+* **Bonus** Close Obelisk
+* **Bonus** West Obelisk
+* **Progression** Obtain a Base
+* **Progression** Southwest Tendril
+* **Progression** Southeast Tendril
+* **Progression** Northeast Tendril
+* **Progression** Northwest Tendril
+* **Victory**
+
+## In Utter Darkness
+<img src="images/in_utter_darkness.svg" style="background-image: url(images/raw/in_utter_darkness.png?raw=true); background-size: 100% auto">
+
+* **Bonus** In Utter Darkness: Protoss Archive
+* **Challenge** In Utter Darkness: Kills
+* **Progression** In Utter Darkness: Urun
+* **Progression** In Utter Darkness: Mohandar
+* **Progression** In Utter Darkness: Selendis
+* **Progression** In Utter Darkness: Artanis
+* **Victory**
+

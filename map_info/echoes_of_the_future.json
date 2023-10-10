@@ -1,0 +1,14 @@
+{
+    "points": [
+        {"x": 495, "y": 573, "type": "bonus", "r": 10, "label": "Close Obelisk"},
+        {"x": 207, "y": 344, "type": "bonus", "r": 10, "label": "West Obelisk"},
+        {"x": 443, "y": 505, "type": "progression", "r": 20},
+        {"x": 611, "y": 398, "type": "progression", "r": 20},
+        {"x": 567, "y": 221, "type": "progression", "r": 20},
+        {"x": 413, "y": 273, "type": "progression", "r": 20},
+        {"x": 252, "y": 679, "type": "progression", "r": 50, "label": "Base", "label_position": "below"}
+    ],
+    "variables": {
+        "image_source": "raw/echoes_of_the_future.png"
+    }
+}

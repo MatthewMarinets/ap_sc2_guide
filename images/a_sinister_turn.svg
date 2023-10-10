@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="891" width="724" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.layerY)">
+  <style>
+    path {
+        fill: transparent;
+        stroke-width: 2;
+    }
+    circle {
+        stroke-width: 3;
+        fill: transparent;
+    }
+    text {
+        font-family: LexendDeca-Light, sans-serif;
+        stroke: black;
+        paint-order: stroke;
+        stroke-width: 3;
+        dominant-baseline: middle;
+        text-anchor: middle;
+        font-size: 20px;
+    }
+    .bonus { stroke: #b9f; }
+    .bonus-text { fill: #b9f; }
+    .progression { stroke: yellow; }
+    .progression-text { fill: yellow; }
+    .annotation { stroke: #fa66a9; }
+    .annotation-text { fill: #fa66a9; }
+  </style>
+  <image href="raw/a_sinister_turn.png" x="0" y="0"/>
+  <circle cx="143" cy="367" r="10" class="bonus"/>
+  <text x="143" y="347" class="bonus-text">Robo</text>
+  <circle cx="442" cy="191" r="10" class="bonus"/>
+  <text x="442" y="171" class="bonus-text">Dark Shrine</text>
+  <circle cx="601" cy="410" r="10" class="bonus"/>
+  <text x="601" y="430" class="bonus-text">Templar Archives</text>
+  <circle cx="573" cy="320" r="30" class="progression"/>
+  <text x="573" y="280" class="progression-text">Northeast Base</text>
+  <circle cx="164" cy="637" r="30" class="progression"/>
+  <text x="164" y="677" class="progression-text">Southwest Base</text>
+  <circle cx="525" cy="682" r="10" class="progression"/>
+  <circle cx="545" cy="745" r="10" class="progression"/>
+  <circle cx="592" cy="699" r="10" class="progression"/>
+  <text x="550" y="712" class="progression-text">Preservers</text>
+  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  SVG is unsupported.
+</svg>

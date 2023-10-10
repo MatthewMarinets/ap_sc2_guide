@@ -1,0 +1,11 @@
+{
+    "points": [
+        {"x": 516, "y": 401, "type": "bonus", "r": 35, "label": "Protoss Archive", "label_position": "below"},
+        {"x": 886, "y": 727, "type": "annotation", "r": 30, "label": "Omegalisk", "label_position": "below"},
+        {"x": 892, "y": 51 , "type": "annotation", "r": 30, "label": "Omegalisk", "label_position": "below"},
+        {"x": 376, "y": 41 , "type": "annotation", "r": 30, "label": "Omegalisk", "label_position": "below"}
+    ],
+    "variables": {
+        "image_source": "raw/in_utter_darkness.png"
+    }
+}

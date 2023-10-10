@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="842" width="1065" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.layerY)">
+  <style>
+    path {
+        fill: transparent;
+        stroke-width: 2;
+    }
+    circle {
+        stroke-width: 3;
+        fill: transparent;
+    }
+    text {
+        font-family: LexendDeca-Light, sans-serif;
+        stroke: black;
+        paint-order: stroke;
+        stroke-width: 3;
+        dominant-baseline: middle;
+        text-anchor: middle;
+        font-size: 20px;
+    }
+    .bonus { stroke: #b9f; }
+    .bonus-text { fill: #b9f; }
+    .progression { stroke: yellow; }
+    .progression-text { fill: yellow; }
+    .annotation { stroke: #fa66a9; }
+    .annotation-text { fill: #fa66a9; }
+  </style>
+  <image href="raw/whispers_of_doom.png" x="0" y="0"/>
+  <circle cx="625" cy="665" r="30" class="bonus"/>
+  <text x="625" y="625" class="bonus-text">First Hatchery</text>
+  <circle cx="55" cy="723" r="30" class="bonus"/>
+  <text x="100" y="683" class="bonus-text">Second Hatchery</text>
+  <circle cx="146" cy="534" r="30" class="bonus"/>
+  <text x="146" y="494" class="bonus-text">Third Hatchery</text>
+  <circle cx="995" cy="235" r="30" class="progression"/>
+  <text x="995" y="195" class="progression-text">First Fragment</text>
+  <circle cx="457" cy="735" r="30" class="progression"/>
+  <text x="457" y="695" class="progression-text">Second Fragment</text>
+  <circle cx="108" cy="309" r="30" class="progression"/>
+  <text x="108" y="269" class="progression-text">Third Fragment</text>
+  <circle cx="400" cy="77" r="30" class="progression"/>
+  <text x="400" y="37" class="progression-text">Goal</text>
+  <circle cx="857" cy="702" r="5" class="annotation"/>
+  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  SVG is unsupported.
+</svg>
