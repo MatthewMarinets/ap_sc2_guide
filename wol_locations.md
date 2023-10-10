@@ -45,14 +45,18 @@
 * Mati -- Proof of concept
 
 ## Liberation Day
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/liberation_day.svg" style="background-image: url(images/raw/liberation_day.png?raw=true); background-size: 100% auto"/>
+</label></div>
 
 * **Bonus** 6 statues
 * **Progression** Special Delivery
 * **Victory**
 
 ## The Outlaws
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/the_outlaws.svg" style="background-image: url(images/raw/the_outlaws.png?raw=true); background-size: 100% auto"/>
+</label></div>
 
 * **Bonus** Clear the North Resource Pickups
 * **Bonus** Rescue the Rebel Base
@@ -60,7 +64,9 @@
 * **Victory**
 
 ## Zero Hour
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/zero_hour.svg" style="background-image: url(images/raw/zero_hour.png?raw=true); background-size: 100% auto"/>
+</label></div>
 
 * **Bonus** First Group Rescued
 * **Bonus** Second Group Rescued
@@ -76,7 +82,9 @@
 * Meet L80ETC, the Tauren Marine who was transported to the Koprulu Sector
 
 ## Evacuation
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/evacuation.svg" style="background-image: url(images/raw/evacuation.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Secret** Secret resource stash 
   * Note: This is reachable right at the start of the mission
@@ -88,7 +96,9 @@
 * **Victory**
 
 ## Outbreak
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/outbreak.svg" style="background-image: url(images/raw/outbreak.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** Defeat Larry the Left infestor
 * **Bonus** Defeat Reggie the Right infestor
@@ -100,7 +110,9 @@
 * **Victory**
 
 ## Safe Haven
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/safe_haven.svg" style="background-image: url(images/raw/safe_haven.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** Defeat the First Terror Fleet
 * **Bonus** Defeat the Second Terror Fleet
@@ -111,7 +123,9 @@
 * **Victory**
 
 ## Haven's Fall
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/havens_fall.svg" style="background-image: url(images/raw/havens_fall.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Progression** North Hive
 * **Progression** East Hive
@@ -127,7 +141,9 @@
 * You can send one of your starting vikings south to gas island at the start of the mission to get +600 starting gas
 
 ## Smash and Grab
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/smash_and_grab.svg" style="background-image: url(images/raw/smash_and_grab.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** First Relic
 * **Bonus** Second Relic
@@ -141,7 +157,9 @@
 * All the artifacts can be acquired without units, by loading SCVs into your command center and flying it around
 
 ## The Dig
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/the_dig.svg" style="background-image: url(images/raw/the_dig.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** Left Relic
 * **Bonus** Right Ground Relic
@@ -154,7 +172,9 @@
 * There are five "special pylons" (annotated above) in 3 groups. Kill all the Pylons in a group, and the Warp Prism / air wave won't spawn from that direction
 
 ## The Moebius Factor
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/the_moebius_factor.svg" style="background-image: url(images/raw/the_moebius_factor.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** South Rescue
 * **Bonus** Wall Rescue
@@ -173,7 +193,9 @@
 * Missile Turrets on Moe's island can heavily slow down or outright stop many attack waves
 
 ## Supernova
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/supernova.svg" style="background-image: url(images/raw/supernova.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** West Relic
 * **Bonus** North Relic
@@ -185,7 +207,9 @@
 * **Victory**
 
 ## Maw of the Void
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/maw_of_the_void.svg" style="background-image: url(images/raw/maw_of_the_void.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** Expansion Prisoners
 * **Bonus** South Close Prisoners
@@ -207,7 +231,9 @@
 * L80ETC is occasionally seen flying his spaceship in the background of the mission
 
 ## The Devil's Playground
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/devils_playground.svg" style="background-image: url(images/raw/devils_playground.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** Tosh's Miners
 * **Bonus** North Reapers
@@ -219,7 +245,9 @@
 * **Victory**
 
 ## Welcome to the Jungle
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/welcome_to_the_jungle.svg" style="background-image: url(images/raw/welcome_to_the_jungle.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** Close Relic
 * **Bonus** West Relic
@@ -236,7 +264,9 @@
 * **Victory**
 
 ## Breakout
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/breakout.svg" style="background-image: url(images/raw/breakout.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** Diamondback Prison
 * **Bonus** Siege Tank Prison
@@ -245,9 +275,15 @@
 * **Victory**
 
 ## Ghost of a Chance
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/ghost_of_a_chance_1.svg" style="background-image: url(images/raw/ghost_of_a_chance_1.png?raw=true); background-size: 100% auto">
+</label></div>
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/ghost_of_a_chance_2.svg" style="background-image: url(images/raw/ghost_of_a_chance_2.png?raw=true); background-size: 100% auto">
+</label></div>
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/ghost_of_a_chance_3.svg" style="background-image: url(images/raw/ghost_of_a_chance_3.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** First Island Spectres
 * **Bonus** Second Island Spectres
@@ -260,7 +296,9 @@
 * L80ETC is occasionally seen flying his spaceship in the background of the mission
 
 ## The Great Train Robbery
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/the_great_train_robbery.svg" style="background-image: url(images/raw/the_great_train_robbery.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** North Defiler
 * **Bonus** Mid Defiler
@@ -275,7 +313,9 @@
 * **Victory**
 
 ## Cutthroat
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/cutthroat.svg" style="background-image: url(images/raw/cutthroat.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** North Relic
 * **Bonus** Mid Relic
@@ -292,7 +332,9 @@
 * On easier difficulties (tested on normal and lower) with Planetary Fortresses unlocked, it's possible to build an engineering bay, load SCVs into your starting Command Center, float and land it in Orlan's base, and upgrade to a Planetary right next to him. The SCVs must repair to keep the planetary alive
 
 ## Engine of Destruction
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/engine_of_destruction.svg" style="background-image: url(images/raw/engine_of_destruction.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** Lab Devourer Sample
 * **Bonus** North Devourer Sample
@@ -306,7 +348,9 @@
 * **Victory**
 
 ## Media Blitz
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/media_blitz.svg" style="background-image: url(images/raw/media_blitz.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** Science Facility's secret documents
 * **Progression** Tower 1
@@ -323,8 +367,12 @@
 * There are 19 barracks, factories, and starports on the map. All starports are in the starport base, but factories and barracks are spread among all bases
 
 ## Piercing the Shroud
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/piercing_the_shroud_1.svg" style="background-image: url(images/raw/piercing_the_shroud_1.png?raw=true); background-size: 100% auto">
+</label></div>
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/piercing_the_shroud_2.svg" style="background-image: url(images/raw/piercing_the_shroud_2.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** Holding Cell Relic
 * **Bonus** Brutalisk Relic
@@ -339,7 +387,9 @@
 * Murky is on this map in a marine suit
 
 ## Whispers of Doom
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/whispers_of_doom.svg" style="background-image: url(images/raw/whispers_of_doom.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** First Hatchery
 * **Bonus** Second Hatchery
@@ -354,7 +404,9 @@
 * The third hatchery can be hit from the low-ground by your stalkers. No need to fight throught all the roaches and spine crawlers
 
 ## A Sinister Turn
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/a_sinister_turn.svg" style="background-image: url(images/raw/a_sinister_turn.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** Power the Robotics Facility
 * **Bonus** Power the Dark Shrine
@@ -368,7 +420,9 @@
 * **Victory**
 
 ## Echoes of the Future
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/echoes_of_the_future.svg" style="background-image: url(images/raw/echoes_of_the_future.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** Close Obelisk
 * **Bonus** West Obelisk
@@ -380,7 +434,9 @@
 * **Victory**
 
 ## In Utter Darkness
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/in_utter_darkness.svg" style="background-image: url(images/raw/in_utter_darkness.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** Protect the Protoss Archive for 15 minutes
 * **Challenge** Kills
@@ -392,7 +448,9 @@
 * **Victory** (or defeat, in this case)
 
 ## The Gates of Hell
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/gates_of_hell.svg" style="background-image: url(images/raw/gates_of_hell.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Progression** Gather a Large Army (100 supply)
 * **Progression** Rescue 2 Drop Pods
@@ -402,10 +460,18 @@
 * **Victory**
 
 ## Belly of the Beast
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/belly_of_the_beast_1.svg" style="background-image: url(images/raw/belly_of_the_beast_1.png?raw=true); background-size: 100% auto">
+</label></div>
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/belly_of_the_beast_2.svg" style="background-image: url(images/raw/belly_of_the_beast_2.png?raw=true); background-size: 100% auto">
+</label></div>
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/belly_of_the_beast_3.svg" style="background-image: url(images/raw/belly_of_the_beast_3.png?raw=true); background-size: 100% auto">
+</label></div>
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/belly_of_the_beast_4.svg" style="background-image: url(images/raw/belly_of_the_beast_4.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Bonus** First Group Rescued
 * **Bonus** Second Group Rescued
@@ -416,7 +482,9 @@
 * **Victory**
 
 ## Shatter the Sky
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/shatter_the_sky.svg" style="background-image: url(images/raw/shatter_the_sky.png?raw=true); background-size: 100% auto">
+</label></div>
 
 * **Progression** Close Coolant Tower
 * **Progression** Northwest Coolant Tower
@@ -429,7 +497,9 @@
 * **Victory**
 
 ## All-In
+<div class="click-zoom"><label><input type="checkbox" style="display: none"/>
 <img src="images/raw/all_in.png" style="background-size: 100% auto">
+</label></div>
 
 * **Victory**
 
