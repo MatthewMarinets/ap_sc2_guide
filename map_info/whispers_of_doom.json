@@ -4,10 +4,10 @@
         {"x": 55 , "y": 723, "type": "bonus", "r": 30},
         {"x": 100, "y": 693, "type": "bonus", "r": 0, "label": "Second Hatchery"},
         {"x": 146, "y": 534, "type": "bonus", "r": 30, "label": "Third Hatchery"},
-        {"x": 995, "y": 235, "type": "progression", "r": 30, "label": "First Fragment"},
-        {"x": 457, "y": 735, "type": "progression", "r": 30, "label": "Second Fragment"},
-        {"x": 108, "y": 309, "type": "progression", "r": 30, "label": "Third Fragment"},
-        {"x": 400, "y": 77 , "type": "progression", "r": 30, "label": "Goal"},
+        {"x": 995, "y": 235, "type": "progression", "r": 20, "label": "First Fragment"},
+        {"x": 457, "y": 735, "type": "progression", "r": 20, "label": "Second Fragment"},
+        {"x": 108, "y": 309, "type": "progression", "r": 20, "label": "Third Fragment"},
+        {"x": 400, "y": 77 , "type": "progression", "r": 20, "label": "Goal"},
         {"x": 857, "y": 702, "type": "annotation", "r": 5}
     ], 
     "variables": {

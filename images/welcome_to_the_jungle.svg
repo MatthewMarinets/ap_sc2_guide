@@ -28,11 +28,11 @@ onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.
   </style>
   <image href="raw/welcome_to_the_jungle.png" x="0" y="0"/>
   <circle cx="361" cy="614" r="20" class="bonus"/>
-  <text x="361" y="584" class="bonus-text">Close</text>
+  <text x="361" y="584" class="bonus-text">Close Relic</text>
   <circle cx="30" cy="383" r="20" class="bonus"/>
   <text x="30" y="353" class="bonus-text">West</text>
   <circle cx="518" cy="240" r="20" class="bonus"/>
-  <text x="518" y="210" class="bonus-text">Northeast</text>
+  <text x="518" y="210" class="bonus-text">Northeast Relic</text>
   <circle cx="400" cy="526" r="30" class="bonus"/>
   <text x="400" y="486" class="bonus-text">Middle Base</text>
   <circle cx="210" cy="230" r="1" class="annotation"/>

@@ -33,14 +33,14 @@ onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.
   <text x="100" y="683" class="bonus-text">Second Hatchery</text>
   <circle cx="146" cy="534" r="30" class="bonus"/>
   <text x="146" y="494" class="bonus-text">Third Hatchery</text>
-  <circle cx="995" cy="235" r="30" class="progression"/>
-  <text x="995" y="195" class="progression-text">First Fragment</text>
-  <circle cx="457" cy="735" r="30" class="progression"/>
-  <text x="457" y="695" class="progression-text">Second Fragment</text>
-  <circle cx="108" cy="309" r="30" class="progression"/>
-  <text x="108" y="269" class="progression-text">Third Fragment</text>
-  <circle cx="400" cy="77" r="30" class="progression"/>
-  <text x="400" y="37" class="progression-text">Goal</text>
+  <circle cx="995" cy="235" r="20" class="progression"/>
+  <text x="995" y="205" class="progression-text">First Fragment</text>
+  <circle cx="457" cy="735" r="20" class="progression"/>
+  <text x="457" y="705" class="progression-text">Second Fragment</text>
+  <circle cx="108" cy="309" r="20" class="progression"/>
+  <text x="108" y="279" class="progression-text">Third Fragment</text>
+  <circle cx="400" cy="77" r="20" class="progression"/>
+  <text x="400" y="47" class="progression-text">Goal</text>
   <circle cx="857" cy="702" r="5" class="annotation"/>
   <rect width="100%" height="100%" fill="transparent" stroke="#fae"/>
   SVG is unsupported.

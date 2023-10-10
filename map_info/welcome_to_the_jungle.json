@@ -1,8 +1,8 @@
 {
     "points": [
-        {"x": 361, "y": 614, "type": "bonus", "label": "Close"},
+        {"x": 361, "y": 614, "type": "bonus", "label": "Close Relic"},
         {"x": 30 , "y": 383, "type": "bonus", "label": "West"},
-        {"x": 518, "y": 240, "type": "bonus", "label": "Northeast"},
+        {"x": 518, "y": 240, "type": "bonus", "label": "Northeast Relic"},
         {"x": 400, "y": 526, "type": "bonus", "r": 30, "label": "Middle Base"},
         {"x": 210, "y": 230, "type": "annotation", "r": 1, "label": "Main Base"}
     ],
