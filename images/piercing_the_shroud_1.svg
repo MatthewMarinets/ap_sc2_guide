@@ -32,7 +32,7 @@ onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.
   <circle cx="391" cy="207" r="10" class="bonus"/>
   <text x="391" y="227" class="bonus-text">Relic</text>
   <circle cx="349" cy="196" r="20" class="bonus"/>
-  <text x="349" y="166" class="bonus-text">Sherbet</text>
+  <text x="349" y="166" class="bonus-text">Sherbet (Brutalisk)</text>
   <circle cx="542" cy="137" r="20" class="progression"/>
   <text x="542" y="107" class="progression-text">Reactor</text>
   <circle cx="147" cy="153" r="15" class="annotation"/>

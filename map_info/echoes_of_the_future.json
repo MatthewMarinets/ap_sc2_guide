@@ -6,7 +6,7 @@
         {"x": 611, "y": 398, "type": "progression", "r": 20},
         {"x": 567, "y": 221, "type": "progression", "r": 20},
         {"x": 413, "y": 273, "type": "progression", "r": 20},
-        {"x": 252, "y": 679, "type": "progression", "r": 50, "label": "Base", "label_position": "below"}
+        {"x": 252, "y": 679, "type": "progression", "r": 50, "label_below": "Base"}
     ],
     "variables": {
         "image_source": "raw/echoes_of_the_future.png"

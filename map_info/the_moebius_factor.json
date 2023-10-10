@@ -1,12 +1,12 @@
 {
     "points": [
-        {"x": 447, "y": 474, "type": "bonus", "label": "Marshmallow"},
+        {"x": 447, "y": 474, "type": "bonus", "label": "Marshmallow", "label_below": "(Brutalisk)"},
         {"x": 850, "y": 547, "type": "bonus", "label": "South"},
         {"x": 771, "y": 295, "type": "bonus", "label": "Wall"},
         {"x": 630, "y": 232, "type": "bonus", "label": "Mid"},
         {"x": 373, "y": 276, "type": "bonus", "label": "Alive Inside"},
         {"x": 340, "y": 199, "type": "bonus", "label": "Nydus"},
-        {"x": 810, "y": 582, "type": "progression", "r": 30, "label": "1st", "label_position": "below"},
+        {"x": 810, "y": 582, "type": "progression", "r": 30, "label_below": "1st"},
         {"x": 704, "y": 66 , "type": "progression", "r": 30, "label": "2nd"},
         {"x": 86 , "y": 399, "type": "progression", "r": 30, "label": "3rd"}
     ],

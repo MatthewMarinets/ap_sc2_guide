@@ -2,9 +2,9 @@
     "points": [
         {"x": 143, "y": 367, "type": "bonus", "r": 10, "label": "Robo"},
         {"x": 442, "y": 191, "type": "bonus", "r": 10, "label": "Dark Shrine"},
-        {"x": 601, "y": 410, "type": "bonus", "r": 10, "label": "Templar Archives", "label_position": "below"},
+        {"x": 601, "y": 410, "type": "bonus", "r": 10, "label_below": "Templar Archives"},
         {"x": 573, "y": 320, "type": "progression", "r": 30, "label": "Northeast Base"},
-        {"x": 164, "y": 637, "type": "progression", "r": 30, "label": "Southwest Base", "label_position": "below"},
+        {"x": 164, "y": 637, "type": "progression", "r": 30, "label_below": "Southwest Base"},
         {"x": 525, "y": 682, "type": "progression", "r": 10},
         {"x": 545, "y": 745, "type": "progression", "r": 10},
         {"x": 592, "y": 699, "type": "progression", "r": 10},

@@ -1,8 +1,8 @@
 {
     "points": [
         {"x": 400, "y": 524, "type": "bonus", "r": 10, "label": "Relic"},
-        {"x": 391, "y": 207, "type": "bonus", "r": 10, "label": "Relic", "label_position": "below"},
-        {"x": 349, "y": 196, "type": "bonus", "r": 20, "label": "Sherbet"},
+        {"x": 391, "y": 207, "type": "bonus", "r": 10, "label_below": "Relic"},
+        {"x": 349, "y": 196, "type": "bonus", "r": 20, "label": "Sherbet (Brutalisk)"},
         {"x": 542, "y": 137, "type": "progression", "label": "Reactor"},
         {"x": 147, "y": 153, "type": "annotation", "r": 15, "label": "Murky"}
     ],

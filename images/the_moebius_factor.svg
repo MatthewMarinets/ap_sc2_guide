@@ -29,6 +29,7 @@ onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.
   <image href="raw/the_moebius_factor.png" x="0" y="0"/>
   <circle cx="447" cy="474" r="20" class="bonus"/>
   <text x="447" y="444" class="bonus-text">Marshmallow</text>
+  <text x="447" y="504" class="bonus-text">(Brutalisk)</text>
   <circle cx="850" cy="547" r="20" class="bonus"/>
   <text x="850" y="517" class="bonus-text">South</text>
   <circle cx="771" cy="295" r="20" class="bonus"/>

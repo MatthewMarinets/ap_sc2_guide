@@ -1,11 +1,11 @@
 {
     "points": [
         {"x": 98 , "y": 79 , "type": "bonus", "r": 30, "label": "Miners"},
-        {"x": 73 , "y": 849, "type": "bonus", "label": "Donut"},
-        {"x": 284, "y": 54 , "type": "bonus", "r": 40, "label": "North", "label_position": "below"},
+        {"x": 73 , "y": 849, "type": "bonus", "label": "Donut", "label_below": "(Brutalisk)"},
+        {"x": 284, "y": 54 , "type": "bonus", "r": 40, "label_below": "North"},
         {"x": 587, "y": 383, "type": "bonus", "label": "Middle"},
-        {"x": 342, "y": 815, "type": "bonus", "label": "Southwest", "label_position": "below"},
-        {"x": 717, "y": 729, "type": "bonus", "label": "Southeast", "label_position": "below"},
+        {"x": 342, "y": 815, "type": "bonus", "label_below": "Southwest"},
+        {"x": 717, "y": 729, "type": "bonus", "label_below": "Southeast"},
         {"x": 854, "y": 439, "type": "bonus", "label": "East"},
         {"x": 724, "y": 887, "type": "annotation", "r": 10, "label": "Diablo, Lord of Terror"}
     ],
