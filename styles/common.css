@@ -16,6 +16,7 @@ body {
     background-color: #111;
     border: 1px solid #fae;
     padding-right: 10px;
+    transition: max-height 0.2s;
 }
 
 #toc:hover, #toc:focus, #toc:active {
