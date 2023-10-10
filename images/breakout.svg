@@ -37,6 +37,6 @@ onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.
   <text x="584" y="600" class="progression-text">Second Checkpoint</text>
   <circle cx="210" cy="256" r="50" class="progression"/>
   <text x="210" y="196" class="progression-text">Goal</text>
-  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  <rect width="100%" height="100%" fill="transparent" stroke="#fae"/>
   SVG is unsupported.
 </svg>

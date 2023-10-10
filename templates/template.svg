@@ -28,6 +28,6 @@ onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.
   </style>
   <image href="$(image_source)" x="0" y="0"/>
 $(points)
-  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  <rect width="100%" height="100%" fill="transparent" stroke="#fae"/>
   SVG is unsupported.
 </svg>

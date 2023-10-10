@@ -47,6 +47,6 @@ onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.
   <text x="738" y="498" class="progression-text">Southeast Base</text>
   <circle cx="499" cy="798" r="30" class="progression"/>
   <text x="499" y="758" class="progression-text">Goal</text>
-  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  <rect width="100%" height="100%" fill="transparent" stroke="#fae"/>
   SVG is unsupported.
 </svg>

@@ -43,6 +43,6 @@ onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.
   <text x="854" y="409" class="bonus-text">East</text>
   <circle cx="724" cy="887" r="10" class="annotation"/>
   <text x="724" y="867" class="annotation-text">Diablo, Lord of Terror</text>
-  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  <rect width="100%" height="100%" fill="transparent" stroke="#fae"/>
   SVG is unsupported.
 </svg>

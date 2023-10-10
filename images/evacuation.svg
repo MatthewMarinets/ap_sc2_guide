@@ -37,6 +37,6 @@ onclick="console.log('&quot;x&quot;: ' + evt.layerX + ', &quot;y&quot;: ' + evt.
   <circle cx="528" cy="78" r="30" class="progression"/>
   <text x="528" y="38" class="progression-text">Goal</text>
   <path d="M 664 740 L 624 655 L 626 632 L 603 610 L 605 588" class="annotation"/>
-  <rect width="100%" height="100%" fill="transparent" stroke="pink"/>
+  <rect width="100%" height="100%" fill="transparent" stroke="#fae"/>
   SVG is unsupported.
 </svg>

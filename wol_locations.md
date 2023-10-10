@@ -62,10 +62,10 @@
 * **Bonus** First Group Rescued
 * **Bonus** Second Group Rescued
 * **Bonus** Third Group Rescued
-* **Challenge** Kill 1 Hathery
-* **Challenge** Kill 2 Hatheries
-* **Challenge** Kill 3 Hatheries
-* **Challenge** Kill 4 Hatheries
+* **Challenge** Kill 1 Hatchery
+* **Challenge** Kill 2 Hatcheries
+* **Challenge** Kill 3 Hatcheries
+* **Challenge** Kill 4 Hatcheries
 * **Victory**
 
 ### Tips
@@ -112,12 +112,12 @@
 * **Progression** North Hive
 * **Progression** East Hive
 * **Progression** South Hive
-* **Victory**
 * **Challenge** Northeast Colony Base
 * **Challenge** East Colony Base
 * **Challenge** Middle Colony Base
 * **Challenge** Southeast Colony Base
 * **Challenge** Southwest Colony Base
+* **Victory**
 
 ### Tips
 * You can send one of your starting vikings south to gas island at the start of the mission to get +600 starting gas
@@ -220,7 +220,6 @@
 * **Bonus** West Relic
 * **Bonus** North-East Relic
 * **Bonus** Middle Base
-* **Victory**
 * **Challenge** Main Base
   * Note: This objective requires destroying _all_ protoss on the map, including outlying bases
 * **Challenge** No Terrazine Nodes Sealed
@@ -229,6 +228,7 @@
 * **Challenge** Up to 3 Terrazine Nodes Sealed
 * **Challenge** Up to 4 Terrazine Nodes Sealed
 * **Challenge** Up to 5 Terrazine Nodes Sealed
+* **Victory**
 
 ## Breakout
 <img src="images/breakout.svg" style="background-image: url(images/raw/breakout.png?raw=true); background-size: 100% auto">
@@ -374,18 +374,19 @@
 ## In Utter Darkness
 <img src="images/in_utter_darkness.svg" style="background-image: url(images/raw/in_utter_darkness.png?raw=true); background-size: 100% auto">
 
-* **Bonus** In Utter Darkness: Protoss Archive
-* **Challenge** In Utter Darkness: Kills
-* **Progression** In Utter Darkness: Urun
-* **Progression** In Utter Darkness: Mohandar
-* **Progression** In Utter Darkness: Selendis
-* **Progression** In Utter Darkness: Artanis
-* **Victory**
+* **Bonus** Protect the Protoss Archive for 15 minutes
+* **Challenge** Kills
+  * 1500 (Casual and Normal) / 2000 (Hard) / 2500 (Brutal)
+* **Progression** Survive until Urun arrives
+* **Progression** Survive until Mohandar arrives
+* **Progression** Survive until Selendis arrives
+* **Progression** Survive until Artanis arrives
+* **Victory** (or defeat, in this case)
 
 ## The Gates of Hell
 <img src="images/gates_of_hell.svg" style="background-image: url(images/raw/gates_of_hell.png?raw=true); background-size: 100% auto">
 
-* **Progression** Gather Large Army
+* **Progression** Gather a Large Army (100 supply)
 * **Progression** Rescue 2 Drop Pods
 * **Progression** Rescue 4 Drop Pods
 * **Progression** Rescue 6 Drop Pods
