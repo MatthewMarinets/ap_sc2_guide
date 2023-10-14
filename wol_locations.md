@@ -190,7 +190,7 @@
 ### Tips
 * The 1st data core can be cleaned up from the highground with just your starting units and the south rescue group
 * The 2nd data core can be killed from the low-ground with just one ranged unit. To drop this unit, the medivac must circle the entire northeastern base
-* Missile Turrets on Moe's island can heavily slow down or outright stop many attack waves
+* Missile Turrets on Marshmallow's island can heavily slow down or outright stop many attack waves
 
 ## Supernova
 <div class="click-zoom"><label><input type="checkbox" style="display: none"/>
